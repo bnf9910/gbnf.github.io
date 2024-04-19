@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>비앤에프(BnF) - WORK</title>
+
+    <link rel="stylesheet" href="../assets/css/common.css" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
+
+    <link
+      rel="stylesheet"
+      as="style"
+      crossorigin
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
+    />
+  </head>
+  <body>
+    <!-- header -->
+    <header id="header" data-include-path="./include/header.html"></header>
+
+    <!-- WORK - container -->
+    <div class="work">
+      <div class="container">
+        <h1>DESIGN</h1>
+        <div class="intro grid">
+          <img src="../assets/images/work_visual.jpg" alt="" />
+        </div>
+        <div class="mission grid">
+          <h2>BnF'S MISSION</h2>
+          <p id="en">
+            At BnF, leading our customers' businesses to success is our mission.
+            We are dedicated to achieving our customers' goals through creative
+            and innovative marketing solutions. With a customer-centric approach
+            and deep understanding, we provide tailored strategies to meet
+            customer demands, maximize brand value, and generate new
+            achievements through innovation.
+          </p>
+          <p id="ko">
+            BnF는 고객의 비즈니스를 성공으로 이끄는 것을 우리의 임무로 삼고
+            있습니다. 우리는 창의적이고 혁신적인 마케팅 솔루션을 통해 고객들의
+            목표를 달성하는데 전념하고 있습니다. 고객 중심의 접근 방식과 깊은
+            이해를 바탕으로 우리는 맞춤형 전략을 제공하여 고객의 요구에
+            부응하고, 브랜드의 가치를 최대화하며, 혁신을 통해 새로운 성과를
+            창출합니다.
+          </p>
+        </div>
+        <div class="portfolio">
+          <div class="contents-design grid">
+            <img src="../assets/images/work_con_01.png" alt="" />
+            <img src="../assets/images/work_con_02.png" alt="" />
+            <img src="../assets/images/work_con_03.png" alt="" />
+            <img src="../assets/images/work_con_04.png" alt="" />
+            <img src="../assets/images/work_con_05.png" alt="" />
+            <img src="../assets/images/work_con_06.png" alt="" />
+            <img src="../assets/images/work_con_07.png" alt="" />
+            <img src="../assets/images/work_con_08.png" alt="" />
+            <img src="../assets/images/work_con_09.png" alt="" />
+            <img src="../assets/images/work_con_10.png" alt="" />
+            <img src="../assets/images/work_con_11.png" alt="" />
+            <img src="../assets/images/work_con_12.png" alt="" />
+            <img src="../assets/images/work_con_13.png" alt="" />
+            <p id="en">
+              BnF takes pride in being a partner who creates value alongside
+              customers through continuous challenges and growth. Join us on the
+              journey to grow your business and produce innovative outcomes
+              together.
+            </p>
+            <p id="ko">
+              BnF는 끊임없는 도전과 성장을 통해 고객과 함께하는 파트너로서
+              가치를 창출하는 것을 자부합니다. 함께하여 당신의 비즈니스를
+              성장시키고 혁신적인 결과물을 만들어내는 여정에 참여해보세요.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- footer -->
+    <footer id="footer" data-include-path="./include/footer.html"></footer>
+
+    <script type="text/javascript">
+      // include
+      window.addEventListener("load", function () {
+        var allElements = document.getElementsByTagName("*");
+        Array.prototype.forEach.call(allElements, function (el) {
+          var includePath = el.dataset.includePath;
+          if (includePath) {
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function () {
+              if (this.readyState == 4 && this.status == 200) {
+                el.outerHTML = this.responseText;
+              }
+            };
+            xhttp.open("GET", includePath, true);
+            xhttp.send();
+          }
+        });
+      });
+    </script>
+
+    <script src="../assets/js/common.js" type="text/javascript"></script>
+  </body>
+</html>

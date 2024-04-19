@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>header</title>
+
+    <link rel="stylesheet" href="../../assets/css/common.css" />
+    <link rel="stylesheet" href="../../assets/css/header.css" />
+
+    <link
+      rel="stylesheet"
+      as="style"
+      crossorigin
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="container grid">
+        <div class="gnb-menu">
+          <ul>
+            <li><a href="../html/index.html">HOME</a></li>
+            <li><a href="../html/about.html">ABOUT</a></li>
+            <li><a href="../html/work.html">WORK</a></li>
+            <li id="ko__btn" class="button_lang active_lang">한국어</li>
+            <li id="en__btn" class="button_lang">English</li>
+          </ul>
+        </div>
+        <div class="blank__con"></div>
+        <div class="home__btn">
+          <a href="../html/index.html" class="logo">
+            <img src="../assets/images/symbol.png" alt="홈으로 이동" />
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <script type="text/javascript">
+      // document.addEventListener("DOMContentLoaded", function () {
+      //   var english = document.getElementById("en__btn"),
+      //     korean = document.getElementById("ko__btn"),
+      //     en_txt = document.querySelectorAll("#eng"),
+      //     ko_txt = document.querySelectorAll("#ko"),
+      //     array_en = en.txt.length,
+      //     array_ko = ko.txt.length;
+
+      //   english.addEventListener(
+      //     "click",
+      //     function () {
+      //       langue(english, korean);
+      //     },
+      //     false
+      //   );
+      //   english.addEventListener(
+      //     "click",
+      //     function () {
+      //       langue(korean, english);
+      //     },
+      //     false
+      //   );
+      //   function langue(langueOn, langueOff) {
+      //     if (!langueOn.classList.contains("active_lang")) {
+      //       langueOn.classList.toggle("active_lang");
+      //       langueOff.classList.toggle("active_lang");
+      //     }
+      //     if (langueOn.innerHTML == "English") {
+      //       afficher(en_txt, array_en);
+      //       cacher(ko_txt, array_ko);
+      //     } else if (langueOn.innerHTML == "한국어") {
+      //       afficher(ko_txt, array_ko);
+      //       cacher(en_txt, array_en);
+      //     }
+      //   }
+      //   function afficher(txt, array) {
+      //     for (var i = 0; i < array; i++) {
+      //       txt[i].style.display = "block";
+      //     }
+      //   }
+      //   function cacher(txt, array) {
+      //     for (var i = 0; i < array; i++) {
+      //       txt[i].style.display = "none";
+      //     }
+      //   }
+      //   function init() {
+      //     langue(english, korean);
+      //   }
+      //   init();
+      // });
+
+      // document.addEventListener("DOMContentLoaded", function () {
+      //   var menuItems = document.querySelectorAll(
+      //     "header .container .gnb-menu ul li a"
+      //   );
+      //   for (var i = 0; i < menuItems.length; i++) {
+      //     menuItems[i].addEventListener("click", function (event) {
+      //       // 이전에 활성화된 메뉴가 있다면 비활성화 처리
+      //       var currentActive = document.querySelector(
+      //         "header .container .gnb-menu ul li a.on"
+      //       );
+      //       if (currentActive) {
+      //         currentActive.classList.remove("on");
+      //       }
+      //       // 클릭된 메뉴를 활성화 처리
+      //       this.classList.add("on");
+      //     });
+      //   }
+      //   // 페이지 로드 시 현재 URL에 해당하는 메뉴 활성화 처리
+      //   var currentUrl = window.location.href;
+      //   for (var i = 0; i < menuItems.length; i++) {
+      //     if (menuItems[i].href === currentUrl) {
+      //       menuItems[i].classList.add("on");
+      //       break;
+      //     }
+      //   }
+      // });
+    </script>
+  </body>
+</html>
