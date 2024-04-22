@@ -29,7 +29,7 @@ header .container .gnb-menu ul li a:hover {
 header .container .gnb-menu ul li {
   padding-bottom: 12px;
 }
-header .container .gnb-menu ul li.button_lang {
+/* header .container .gnb-menu ul li.button_lang {
   width: 80px;
   height: 32px;
   background-color: #fff;
@@ -52,9 +52,39 @@ header .container .gnb-menu ul li.active_lang {
   color: #fff;
   border: 1px solid #222;
   cursor: pointer;
-}
+} */
 header .container .blank__con {
-  grid-column: 2 / span 10;
+  grid-column: 2 / span 9;
+}
+header .container .lang__btn {
+  margin-left: auto;
+}
+header .container .lang__btn ul li.button_lang {
+  width: 80px;
+  height: 32px;
+  background-color: #fff;
+  padding: 6px 12px;
+  font-size: 14px;
+  color: #c2c1c1;
+  margin-top: 4px;
+  border: 1px solid #c2c1c1;
+  border-radius: 15px;
+  text-align: center;
+  -webkit-transition: background-color 0.3s ease-in-out;
+  -moz-transition: background-color 0.3s ease-in-out;
+  -o-transition: background-color 0.3s ease-in-out;
+  -ms-transition: background-color 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+header .container .lang__btn ul li.button_lang:hover,
+header .container .lang__btn ul li.active_lang {
+  background-color: #222;
+  color: #fff;
+  border: 1px solid #222;
+  cursor: pointer;
+}
+header .container .home__btn {
+  grid-column: 12 / span 1;
 }
 header .container .home__btn a {
   float: right;

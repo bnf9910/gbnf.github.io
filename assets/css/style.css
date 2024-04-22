@@ -140,7 +140,7 @@ main .container .video__con p {
     padding-top: 40px;
   }
   main .container .main__con01 p {
-    display: none;
+    display: none !important;
   }
   main .container .main__con02 p {
     grid-column: 1 / span 4;
@@ -156,6 +156,7 @@ main .container .video__con p {
   main .container .video__con .txt_left {
     grid-column: 1 / span 2;
     top: -490px;
+    display: none;
   }
   main .container .video__con .txt_right {
     grid-column: 2 / span 3;
