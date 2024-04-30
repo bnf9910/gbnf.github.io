@@ -35,6 +35,10 @@ footer .container .info {
 footer .container .info ul li:not(:first-of-type) {
   line-height: 130%;
 }
+footer .container .info ul li a:hover {
+  color: #222;
+  font-weight: 600;
+}
 footer .container .family {
   grid-column: 11 / span 2;
   font-size: 20px;
