@@ -85,7 +85,7 @@ footer .container .copyright {
   footer .container .hello h1,
   footer .container .hello__con,
   footer .container .blank__con {
-    display: none;
+    display: none !important;
   }
   footer .container .info,
   footer .container .family,
