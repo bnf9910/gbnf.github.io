@@ -22,23 +22,24 @@ window.onload = function () {
       secondLiA.classList.add("on");
       clearInterval(intervalId);
 
-      var korean = document.getElementById("ko__btn"),
-        english = document.getElementById("en__btn"),
-        ko_txt = document.querySelectorAll("#ko"),
+      var english = document.getElementById("en__btn"),
+        korean = document.getElementById("ko__btn"),
         en_txt = document.querySelectorAll("#en"),
-        array_en = en_txt.length;
-      (array_ko = ko_txt.length),
-        korean.addEventListener(
-          "click",
-          function () {
-            langue(korean, english);
-          },
-          false
-        );
+        ko_txt = document.querySelectorAll("#ko"),
+        array_en = en_txt.length,
+        array_ko = ko_txt.length;
+
       english.addEventListener(
         "click",
         function () {
           langue(english, korean);
+        },
+        false
+      );
+      korean.addEventListener(
+        "click",
+        function () {
+          langue(korean, english);
         },
         false
       );
@@ -48,16 +49,16 @@ window.onload = function () {
           langueOff.classList.toggle("active_lang");
         }
 
-        if (langueOn.innerHTML == "한국어") {
-          afficher(ko_txt, array_ko);
-          cacher(en_txt, array_en);
-
-          sessionStorage.setItem("selectedLanguage", "ko");
-        } else if (langueOn.innerHTML == "English") {
+        if (langueOn.innerHTML == "English") {
           afficher(en_txt, array_en);
           cacher(ko_txt, array_ko);
 
           sessionStorage.setItem("selectedLanguage", "en");
+        } else if (langueOn.innerHTML == "한국어") {
+          afficher(ko_txt, array_ko);
+          cacher(en_txt, array_en);
+
+          sessionStorage.setItem("selectedLanguage", "ko");
         }
       }
       function afficher(txt, array) {
@@ -71,14 +72,14 @@ window.onload = function () {
         }
       }
       function init() {
-        langue(korean, english);
+        langue(english, korean);
       }
 
       var selectedLanguage = sessionStorage.getItem("selectedLanguage");
-      if (selectedLanguage === "ko") {
-        langue(korean, english);
-      } else if (selectedLanguage === "en") {
+      if (selectedLanguage === "en") {
         langue(english, korean);
+      } else if (selectedLanguage === "ko") {
+        langue(korean, english);
       } else {
         init();
       }
