@@ -485,7 +485,8 @@ main .container .main__con04 p {
   .work .container .portfolio .contents-design img {
     grid-column: auto / span 2;
   }
-  .work .container .portfolio .contents-design img:nth-of-type(11) {
+  .work .container .portfolio .contents-design img:nth-of-type(11),
+  .work .container .portfolio .contents-design img:nth-of-type(15) {
     grid-column: auto / span 4;
   }
   .work .container .portfolio .contents-design div {
