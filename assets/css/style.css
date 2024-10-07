@@ -432,8 +432,8 @@ main .container .main__con04 p {
   width: 100%;
   height: 100%;
 }
-.work .container .portfolio .contents-design img:nth-of-type(8),
-.work .container .portfolio .contents-design img:nth-of-type(12) {
+.work .container .portfolio .contents-design img:nth-of-type(11),
+.work .container .portfolio .contents-design img:nth-of-type(15) {
   grid-column: auto / span 8;
   width: 100%;
   height: 100%;
