@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "siteName": "BnF",
+    "tagline": "Medical · Beauty IMC Marketing Group",
+    "established": "EST. 2019 — SEOUL"
+  },
+  "nav": {
+    "work": "WORK",
+    "services": "SERVICES",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "cta": "Start a Project"
+  },
+  "hero": {
+    "scroll": "SCROLL ↓",
+    "tagline": "Medical · Beauty IMC Marketing Group",
+    "replay": "↻ Replay"
+  },
+  "intro": {
+    "label": "Integrated Marketing",
+    "headingLine1": "From the visible",
+    "headingLine2": "to the unseen,",
+    "headingEm": "everything",
+    "headingTail": " we build.",
+    "p1Pre": "BnF is not just an ad agency. We design ",
+    "p1Strong": "the front and back of your brand—every touchpoint",
+    "p1Tail": ".",
+    "p2": "From customer-facing ads, content, and campaigns to the data, automation, and operations running silently in the background. We unify fragmented marketing into one flow, building it together as your brand's partner.",
+    "stat1Num": "200",
+    "stat1Em": "+",
+    "stat1Label": "Medical · Beauty Clients",
+    "stat2Num": "98",
+    "stat2Em": "%",
+    "stat2Label": "Medical Ad Approval Rate",
+    "stat3Num": "9",
+    "stat3Em": " Markets",
+    "stat3Label": "Global Expansion Consulting"
+  },
+  "services": {
+    "headlineLine1": "Eight disciplines,",
+    "headlineLine2": "one",
+    "headlineEm": "strategy",
+    "headlineTail": ".",
+    "desc": "Engage one capability or the entire system. Both work.",
+    "viewMore": "Learn more →",
+    "viewAll": "View all",
+    "imcExplainer": {
+      "label": "Integrated Marketing Communications",
+      "headingLine1": "What is",
+      "headingLine2": "",
+      "headingEm": "IMC",
+      "headingTail": "?",
+      "p1Pre": "IMC (Integrated Marketing Communications) is the strategy of unifying separated marketing channels into ",
+      "p1Strong": "one consistent flow",
+      "p1Tail": ".",
+      "p2": "In the past, advertising operated separately from PR, separately from social. But today's consumer encounters one brand simultaneously across search, social, retail, and ads. The moment one channel's message contradicts another, brand trust collapses.",
+      "p3Pre": "BnF runs all eight disciplines with ",
+      "p3Strong": "one team, one strategy, one data set",
+      "p3Tail": ". The tone decided in branding flows directly into ad copy, content, influencer messaging, and event direction.",
+      "flowTitle": "Eight integrated disciplines"
+    },
+    "items": {
+      "branding": {
+        "cat": "Brand Strategy",
+        "titleMain": "Brand ",
+        "titleEm": "Strategy",
+        "desc": "Hospitals, luxury, enterprise. From naming and BI/CI to identities that resonate in market.",
+        "tags": [
+          "Naming",
+          "BI/CI",
+          "Guidelines"
+        ]
+      },
+      "performance": {
+        "cat": "Performance",
+        "titleMain": "Performance ",
+        "titleEm": "Advertising",
+        "desc": "Google, Meta, Naver, Kakao. Medical ad compliance and ROAS, simultaneously.",
+        "tags": [
+          "Google Ads",
+          "Meta",
+          "Naver"
+        ]
+      },
+      "content": {
+        "cat": "Content",
+        "titleMain": "Video & Image ",
+        "titleEm": "Content",
+        "desc": "In-house studio producing photoshoots, Reels, Shorts in one pipeline.",
+        "tags": [
+          "Studio",
+          "Editing",
+          "Motion"
+        ]
+      },
+      "social": {
+        "cat": "Social & Influencer",
+        "titleMain": "Social & ",
+        "titleEm": "Influencer",
+        "desc": "Owned roster of 1,500+ influencers. Channel ops, KOLs, ambassador programs.",
+        "tags": [
+          "SNS",
+          "Influencer",
+          "KOL"
+        ]
+      },
+      "pr": {
+        "cat": "PR & Events",
+        "titleMain": "PR & ",
+        "titleEm": "Events",
+        "desc": "Media relations, academic PR, luxury and enterprise pop-ups and event production.",
+        "tags": [
+          "Media PR",
+          "Academic PR",
+          "Pop-up · Event"
+        ]
+      },
+      "global": {
+        "cat": "Global",
+        "titleMain": "Global ",
+        "titleEm": "Expansion",
+        "desc": "Expansion consulting across 9 markets. Local channels, localization, medical tourism.",
+        "tags": [
+          "China",
+          "Japan",
+          "K-Beauty"
+        ]
+      },
+      "mso": {
+        "cat": "MSO",
+        "titleMain": "MSO & ",
+        "titleEm": "Operations",
+        "desc": "Hospital management consulting + integrated marketing. Compliance and legal review included.",
+        "tags": [
+          "Operations",
+          "Ad Compliance",
+          "Hospital-only"
+        ]
+      },
+      "martech": {
+        "cat": "MarTech",
+        "titleMain": "MarTech & ",
+        "titleEm": "Automation",
+        "desc": "CRM, MA, AI ad optimization. 1:1 personalized marketing at scale.",
+        "tags": [
+          "CRM",
+          "Automation",
+          "AI"
+        ]
+      }
+    }
+  },
+  "work": {
+    "headlineEm": "Selected",
+    "headlineTail": "Work.",
+    "viewAll": "View all cases →",
+    "filters": {
+      "all": "All",
+      "branding": "Branding",
+      "performance": "Performance",
+      "content": "Content",
+      "popup": "Pop-up · Event",
+      "global": "Global",
+      "mso": "MSO",
+      "luxury": "Luxury"
+    },
+    "countSuffix": " cases",
+    "lede": "From medical and beauty brands to luxury and enterprise campaigns. A selection of work created with over 200 clients."
+  },
+  "about": {
+    "label": "About BnF",
+    "pageTitleLine1": "We don't make ads.",
+    "pageTitleLine2Em": "We build brands",
+    "pageTitleLine2Tail": ".",
+    "lede": "BnF is a Seoul-based medical and beauty IMC marketing group, founded in 2019. We design every visible and invisible part of a brand.",
+    "manifestoMainLine1": "Good ads are forgotten.",
+    "manifestoMainLine2Em": "Good brands",
+    "manifestoMainLine2Tail": " are remembered.",
+    "manifestoQuiet": "In 2019, when medical and beauty marketing was stuck in single-channel ad buying, BnF chose another path. Building a brand—not just running ads. Building a sustainable system—not just chasing revenue. That is how we have worked with over 200 clients.",
+    "bfMeaningHeading": "The meaning of ",
+    "bfMeaningHeadingEm": "BnF",
+    "bfMeaningTail": ".",
+    "bfMeaningSub": "BnF stands for Back & Front—a philosophy of designing every touchpoint of a brand, both seen and unseen.",
+    "bfBackTitle": "BACK",
+    "bfBackSubLine1": "The infrastructure",
+    "bfBackSubLine2Em": "operating",
+    "bfBackSubLine2Tail": " unseen.",
+    "bfBackText": "Data, automation, operations, compliance, systems. Working silently where customers don't see. Eighty percent of marketing is decided in places customers never look.",
+    "bfBackList": [
+      "CRM · DMP · MA Operations",
+      "Medical Ad Compliance",
+      "Legal & Pharma Review",
+      "Data Analysis & Reporting",
+      "Hospital Operations (MSO)"
+    ],
+    "bfFrontTitle": "FRONT",
+    "bfFrontSubLine1": "Every expression",
+    "bfFrontSubLine2Em": "consumers",
+    "bfFrontSubLine2Tail": " encounter.",
+    "bfFrontText": "Ads, content, campaigns, events, pop-ups. The face and voice of the brand. We design and direct every visible moment.",
+    "bfFrontList": [
+      "Naming · BI/CI",
+      "Performance Advertising",
+      "Video & Image Content",
+      "Social & Influencer Campaigns",
+      "Pop-up & Launch Events"
+    ],
+    "pillarsLabel": "Our Way",
+    "pillarsHeadingMain": "Four ",
+    "pillarsHeadingEm": "principles",
+    "pillarsHeadingTail": " for how we work.",
+    "pillarsSub": "The way we have worked with over 200 medical and beauty clients. Applied identically to any industry, any brand size.",
+    "pillar1TitleMain": "Specialized in ",
+    "pillar1TitleEm": "Medical & Beauty",
+    "pillar1Desc": "A marketing team that understands medical advertising law, pharmaceutical regulation, and labeling law. Deep industry knowledge from working with 200+ hospital and beauty brands. 98% medical ad approval rate.",
+    "pillar2TitleMain": "Without ",
+    "pillar2TitleEm": "boundaries",
+    "pillar2TitleTail": " of category",
+    "pillar2Desc": "We started in medical and beauty, but extended into luxury pop-ups, enterprise event production, and academic PR. The principles of good marketing translate everywhere.",
+    "pillar3TitleMain": "Partners, not ",
+    "pillar3TitleEm": "agencies",
+    "pillar3Desc": "Builders who walk with the brand from start to finish. The relationship continues long after the campaign ends, accumulating assets beyond revenue—brand recognition, trust, loyalty.",
+    "pillar4TitleMain": "Local to ",
+    "pillar4TitleEm": "global",
+    "pillar4TitleTail": "",
+    "pillar4Desc": "Carrying brands born in Korea to nine markets worldwide. Writing the next chapter of K-Beauty and K-Medical. 60+ expansion consulting projects across Japan, China, and Southeast Asia.",
+    "historyHeadingMain": "BnF's ",
+    "historyHeadingEm": "journey",
+    "historyHeadingTail": ".",
+    "historySub": "Founded in Seoul in 2019, BnF has been setting new standards for medical and beauty marketing.",
+    "timeline": [
+      {
+        "year": "2019",
+        "title": "BnF Founded",
+        "desc": "Launched in Seoul Gangnam as a medical and beauty IMC group. Secured 12 clients in the first year."
+      },
+      {
+        "year": "2020",
+        "title": "In-house Studio Opened",
+        "desc": "Dedicated video content studio for medical and beauty. Built in-house director and editing teams."
+      },
+      {
+        "year": "2021",
+        "title": "Global Expansion Begins",
+        "desc": "First Japan and China expansion clients. Established 9-language localization system."
+      },
+      {
+        "year": "2022",
+        "title": "MSO Division Launched",
+        "desc": "MSO solution combining hospital management consulting with integrated marketing. Developed in-house medical ad review system."
+      },
+      {
+        "year": "2023",
+        "title": "Beyond Medical: Luxury & Enterprise",
+        "desc": "Expanded from medical and beauty to luxury pop-ups and enterprise event production. Crossed 150 cumulative clients."
+      },
+      {
+        "year": "2024",
+        "title": "MarTech & Automation",
+        "desc": "Implemented AI-driven ad optimization and CRM automation systems. Crossed 200 clients."
+      },
+      {
+        "year": "NOW",
+        "title": "Next chapter",
+        "desc": "Expanding our Korea-proven marketing system globally. Writing the next page of K-Beauty and K-Medical."
+      }
+    ],
+    "stat4Num": "1,500",
+    "stat4Em": "+",
+    "stat4Label": "Owned Influencer Roster",
+    "pillar1TitleTail": "",
+    "pillar3TitleTail": ""
+  },
+  "contact": {
+    "headlineLine1": "Let's build",
+    "headlineEm": "together",
+    "headlineTail": ".",
+    "lede": "Submit the form and a team member will reach out within one business day. For quick questions, email or phone work too.",
+    "infoHeadingMain": "Contact",
+    "infoHeadingEm": "details",
+    "infoSub": "All inquiries route to info@gbnf.kr. We respond within one business day.",
+    "labels": {
+      "company": "Company",
+      "name": "Name",
+      "position": "Title",
+      "phone": "Phone",
+      "email": "Email",
+      "type": "Inquiry type",
+      "budget": "Budget",
+      "message": "Message",
+      "email_label": "EMAIL",
+      "phone_label": "PHONE",
+      "location_label": "LOCATION",
+      "hours_label": "HOURS",
+      "careers_label": "CAREERS",
+      "address_label": "ADDRESS",
+      "transit_label": "TRANSIT",
+      "parking_label": "PARKING"
+    },
+    "placeholders": {
+      "company": "e.g. BnF Inc.",
+      "name": "Your name",
+      "position": "Marketing Lead",
+      "phone": "+82 10-0000-0000",
+      "email": "hello@company.com",
+      "select": "Please select",
+      "message": "Tell us about your project, timeline, and goals."
+    },
+    "typeOptions": [
+      "Brand Strategy & Identity",
+      "Performance Advertising",
+      "Video & Image Content",
+      "Social & Influencer",
+      "PR · Events · Pop-up",
+      "Global Expansion",
+      "MSO · Hospital Operations",
+      "MarTech · Automation",
+      "Full Integration (IMC)",
+      "Other"
+    ],
+    "budgetOptions": [
+      "Under $25K",
+      "$25K — $80K",
+      "$80K — $250K",
+      "$250K — $800K",
+      "$800K+",
+      "To be discussed"
+    ],
+    "submit": "Send inquiry →",
+    "submitNote": "Information you submit is used solely for inquiry response and managed in accordance with applicable laws.",
+    "successMessage": "Your mail app will open. Please complete sending. In production, this will be automatic.",
+    "hoursValue": "Mon–Fri 10:00 — 19:00 (KST)",
+    "addressValue": "25, Nonhyeon-ro 160-gil, Gangnam-gu, Seoul",
+    "transitValue": "6 min walk from Hakdong Station (Line 7) / 8 min from Gangnam-gu Office Station (Bundang Line)",
+    "parkingValue": "2 hours free parking in building basement",
+    "studioHeading": "BnF",
+    "studioHeadingEm": " Studio",
+    "studioDesc": "BnF headquarters at 25 Nonhyeon-ro 160-gil, Seoul Gangnam. Meeting rooms, photography studio, and editing suites all in one space.",
+    "faqLabel": "FAQ",
+    "faqHeading": "Frequently asked ",
+    "faqHeadingEm": "questions",
+    "faqSub": "Check our FAQ before reaching out.",
+    "faq": [
+      {
+        "q": "What's the minimum project size?",
+        "a": "Varies by service. One-off campaigns start at ~$25K. Integrated IMC starts at ~$80K/month. With clear goals, we'll consult regardless of size."
+      },
+      {
+        "q": "Can I engage just one service area?",
+        "a": "Yes. You can select any of the 8 disciplines (branding, performance, content, social, PR, global, MSO, MarTech). That said, BnF's strength is integrated operations—engaging 2+ areas typically yields the best outcomes."
+      },
+      {
+        "q": "How do you handle medical ad compliance?",
+        "a": "BnF maintains a 98% medical ad approval rate. All copy, images, and videos pass internal review against compliance guidelines before official submission. Pharmaceutical and labeling law review included."
+      },
+      {
+        "q": "How long does a typical project take?",
+        "a": "Varies by service. Full branding projects run 8–12 weeks. Performance advertising operates monthly. Pop-ups and events run 4–8 weeks. Global expansion consulting runs 3–6 months."
+      },
+      {
+        "q": "Can you work outside medical and beauty?",
+        "a": "Yes. Medical and beauty are our core, but we have cases in luxury, enterprise events, F&B, and more. Good marketing principles apply across industries."
+      },
+      {
+        "q": "Which markets do you cover for global expansion?",
+        "a": "Japan, mainland China, Taiwan, Mongolia, Vietnam, Thailand, Philippines, Indonesia, Malaysia—9 markets. Includes local channel entry, 9-language localization, and medical tourism packages."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Let's build something great",
+    "headlineLine1Pre": "Build your next ",
+    "headlineEm": "brand",
+    "headlineLine1Tail": "",
+    "headlineLine2": "with us.",
+    "btn": "Start a Project →"
+  },
+  "footer": {
+    "tagline": "Medical · Beauty IMC Marketing Group. From the visible to the unseen.",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "companyLinks": {
+      "about": "About",
+      "work": "Work",
+      "contact": "Contact",
+      "careers": "Careers"
+    },
+    "copyright": "© 2026 BnF Inc."
+  },
+  "common": {
+    "home": "HOME",
+    "next": "Next",
+    "prev": "Previous",
+    "close": "Close",
+    "loading": "Loading...",
+    "viewMore": "Learn more →"
+  }
+}

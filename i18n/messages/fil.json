@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "siteName": "BnF",
+    "tagline": "Medical · Beauty IMC Marketing Group",
+    "established": "EST. 2019 — SEOUL"
+  },
+  "nav": {
+    "work": "WORK",
+    "services": "SERVICES",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "cta": "Magtanong sa Proyekto"
+  },
+  "hero": {
+    "scroll": "SCROLL ↓",
+    "tagline": "Medical · Beauty IMC Marketing Group",
+    "replay": "↻ Replay"
+  },
+  "intro": {
+    "label": "Integrated Marketing",
+    "headingLine1": "Mula sa nakikita",
+    "headingLine2": "hanggang sa hindi nakikita,",
+    "headingEm": "lahat",
+    "headingTail": " ay binubuo namin.",
+    "p1Pre": "Hindi lamang isang ad agency ang BnF. Dinisenyo namin nang sama-sama ",
+    "p1Strong": "ang harap at likod ng iyong brand—lahat ng touchpoint",
+    "p1Tail": ".",
+    "p2": "Mula sa mga ad, content, at kampanyang nakikita ng customer hanggang sa data, automation, at operations na tahimik na umaandar sa likod. Pinagsasama-sama namin ang nahahating marketing sa isang daloy, bilang kapartner ng iyong ospital o brand sa pagbuo nito.",
+    "stat1Num": "200",
+    "stat1Em": "+",
+    "stat1Label": "Medical · Beauty Clients",
+    "stat2Num": "98",
+    "stat2Em": "%",
+    "stat2Label": "Medical Ad Approval Rate",
+    "stat3Num": "9",
+    "stat3Em": " bansa",
+    "stat3Label": "Global Expansion Consulting"
+  },
+  "services": {
+    "headlineLine1": "Walong disiplina,",
+    "headlineLine2": "isang",
+    "headlineEm": "estratehiya",
+    "headlineTail": ".",
+    "desc": "Maaaring kumuha ng isang kakayahan o ng buong sistema. Pareho silang gumagana.",
+    "viewMore": "Alamin pa →",
+    "viewAll": "Tingnan lahat",
+    "imcExplainer": {
+      "label": "Integrated Marketing Communications",
+      "headingLine1": "Ano ang",
+      "headingLine2": "",
+      "headingEm": "IMC",
+      "headingTail": "?",
+      "p1Pre": "Ang IMC (Integrated Marketing Communications) ay ang estratehiya ng pagbubuklod ng magkakahiwalay na marketing channels sa ",
+      "p1Strong": "isang pare-parehong daloy",
+      "p1Tail": ".",
+      "p2": "Noong nakaraan, hiwalay ang ad sa PR, hiwalay sa social. Pero ngayon, sabay-sabay nakakaharap ng customer ang isang brand sa search, social, retail, at ads. Kapag hindi tugma ang mensahe ng isang channel sa iba, agad nawawasak ang tiwala sa brand.",
+      "p3Pre": "Pinapatakbo ng BnF ang lahat ng walong disiplina gamit ang ",
+      "p3Strong": "isang team, isang estratehiya, isang dataset",
+      "p3Tail": ". Ang tono na napagdesisyunan sa branding ay direktang dumadaloy sa ad copy, content, influencer messaging, at event direction.",
+      "flowTitle": "Walong integrated na disiplina"
+    },
+    "items": {
+      "branding": {
+        "cat": "Brand Strategy",
+        "titleMain": "Brand ",
+        "titleEm": "Strategy",
+        "desc": "Ospital, luxury, korporasyon. Mula naming at BI/CI hanggang identity na epektibo sa merkado.",
+        "tags": [
+          "Naming",
+          "BI/CI",
+          "Guidelines"
+        ]
+      },
+      "performance": {
+        "cat": "Performance",
+        "titleMain": "Performance ",
+        "titleEm": "Advertising",
+        "desc": "Google, Meta, Naver, Kakao. Compliance at ROAS, sabay.",
+        "tags": [
+          "Google Ads",
+          "Meta",
+          "Naver"
+        ]
+      },
+      "content": {
+        "cat": "Content",
+        "titleMain": "Video at Image ",
+        "titleEm": "Content",
+        "desc": "In-house studio na gumagawa ng photoshoots, Reels, Shorts sa isang pipeline.",
+        "tags": [
+          "Studio",
+          "Editing",
+          "Motion"
+        ]
+      },
+      "social": {
+        "cat": "Social & Influencer",
+        "titleMain": "Social at ",
+        "titleEm": "Influencer",
+        "desc": "Sariling roster na 1,500+ influencers. SNS, KOL, ambassador programs.",
+        "tags": [
+          "SNS",
+          "Influencer",
+          "KOL"
+        ]
+      },
+      "pr": {
+        "cat": "PR & Events",
+        "titleMain": "PR at ",
+        "titleEm": "Events",
+        "desc": "Media relations, academic PR, luxury at enterprise pop-ups at event production.",
+        "tags": [
+          "Media PR",
+          "Academic PR",
+          "Pop-up · Event"
+        ]
+      },
+      "global": {
+        "cat": "Global",
+        "titleMain": "Global ",
+        "titleEm": "Expansion",
+        "desc": "Expansion consulting sa 9 markets. Local channels, localization, medical tourism.",
+        "tags": [
+          "Tsina",
+          "Hapon",
+          "K-Beauty"
+        ]
+      },
+      "mso": {
+        "cat": "MSO",
+        "titleMain": "MSO at ",
+        "titleEm": "Operations",
+        "desc": "Hospital management consulting + integrated marketing. May kasamang compliance at legal review.",
+        "tags": [
+          "Operations",
+          "Compliance",
+          "Hospital-only"
+        ]
+      },
+      "martech": {
+        "cat": "MarTech",
+        "titleMain": "MarTech at ",
+        "titleEm": "Automation",
+        "desc": "CRM, MA, AI ad optimization. 1:1 personalized marketing.",
+        "tags": [
+          "CRM",
+          "Automation",
+          "AI"
+        ]
+      }
+    }
+  },
+  "work": {
+    "headlineEm": "Selected",
+    "headlineTail": "Work.",
+    "viewAll": "Tingnan lahat ng case →",
+    "filters": {
+      "all": "Lahat",
+      "branding": "Branding",
+      "performance": "Performance",
+      "content": "Content",
+      "popup": "Pop-up · Event",
+      "global": "Global",
+      "mso": "MSO",
+      "luxury": "Luxury"
+    },
+    "countSuffix": " mga case",
+    "lede": "Mula medical at beauty brands hanggang luxury at enterprise campaigns. Piling mga gawa kasama ang mahigit 200 kliyente."
+  },
+  "about": {
+    "label": "About BnF",
+    "pageTitleLine1": "Hindi kami gumagawa ng ads.",
+    "pageTitleLine2Em": "Brand ang binubuo namin",
+    "pageTitleLine2Tail": ".",
+    "lede": "Ang BnF ay isang Seoul-based medical at beauty IMC marketing group, itinatag noong 2019. Dinisenyo namin ang lahat ng nakikita at hindi nakikitang bahagi ng brand.",
+    "manifestoMainLine1": "Nakakalimutan ang magandang ad,",
+    "manifestoMainLine2Em": "ang magandang brand",
+    "manifestoMainLine2Tail": " ay tinatandaan.",
+    "manifestoQuiet": "Noong 2019, nang nakakulong ang medical at beauty marketing sa simpleng pag-bili ng ad, pumili ang BnF ng ibang landas. Pagbuo ng brand—hindi lamang pagpapatakbo ng ads. Pagbuo ng sustainable system—hindi lamang paghabol sa kita. Iyon ang naging paraan namin sa mahigit 200 kliyente.",
+    "bfMeaningHeading": "Ang kahulugan ng ",
+    "bfMeaningHeadingEm": "BnF",
+    "bfMeaningTail": ".",
+    "bfMeaningSub": "BnF ay nangangahulugang Back & Front—isang pilosopiya ng pagdidisenyo ng bawat touchpoint ng brand, parehong nakikita at hindi.",
+    "bfBackTitle": "BACK",
+    "bfBackSubLine1": "Ang infrastructure",
+    "bfBackSubLine2Em": "umaandar",
+    "bfBackSubLine2Tail": " sa hindi nakikita.",
+    "bfBackText": "Data, automation, operations, compliance, systems. Tahimik na umaandar sa lugar na hindi nakikita ng customer. Walumpung porsyento ng marketing ay napagdedesisyunan sa lugar na hindi tinatanaw ng customer.",
+    "bfBackList": [
+      "CRM · DMP · MA Operations",
+      "Medical Ad Compliance",
+      "Legal at Pharma Review",
+      "Data Analysis at Reporting",
+      "Hospital Operations (MSO)"
+    ],
+    "bfFrontTitle": "FRONT",
+    "bfFrontSubLine1": "Bawat ekspresyon",
+    "bfFrontSubLine2Em": "na nakakaharap",
+    "bfFrontSubLine2Tail": " ng consumer.",
+    "bfFrontText": "Ads, content, kampanya, events, pop-ups. Ang mukha at boses ng brand. Dinisenyo at idinidirek namin ang bawat nakikitang sandali.",
+    "bfFrontList": [
+      "Naming · BI/CI",
+      "Performance Advertising",
+      "Video at Image Content",
+      "Social at Influencer Campaigns",
+      "Pop-up at Launch Events"
+    ],
+    "pillarsLabel": "Ang Aming Paraan",
+    "pillarsHeadingMain": "Apat na ",
+    "pillarsHeadingEm": "prinsipyo",
+    "pillarsHeadingTail": " ng paggawa.",
+    "pillarsSub": "Ang paraang ginagamit namin sa mahigit 200 medical at beauty kliyente. Kapareho ang aplikasyon sa anumang industriya o sukat ng brand.",
+    "pillar1TitleMain": "Espesyalista sa ",
+    "pillar1TitleEm": "Medical at Beauty",
+    "pillar1Desc": "Marketing team na nakakaintindi ng medical advertising law, pharmaceutical regulation, at labeling law. Malalim na industry knowledge mula sa pagtatrabaho sa 200+ ospital at beauty brands. 98% medical ad approval rate.",
+    "pillar2TitleMain": "Walang ",
+    "pillar2TitleEm": "hanggahan",
+    "pillar2TitleTail": " sa kategorya",
+    "pillar2Desc": "Nagsimula sa medical at beauty pero lumawak sa luxury pop-ups, enterprise event production, at academic PR. Ang prinsipyo ng magandang marketing ay nakakaapply kahit saan.",
+    "pillar3TitleMain": "Hindi agency, kundi ",
+    "pillar3TitleEm": "kapartner",
+    "pillar3Desc": "Mga tagabuo na sumasama sa brand mula simula hanggang dulo. Nagpapatuloy ang relasyon kahit matapos ang kampanya, at sama-samang naipon ang assets na higit pa sa kita—brand recognition, tiwala, loyalty.",
+    "pillar4TitleMain": "Local hanggang ",
+    "pillar4TitleEm": "global",
+    "pillar4TitleTail": "",
+    "pillar4Desc": "Pagdadala ng mga brand mula Korea sa siyam na merkado sa mundo. Pagsulat ng susunod na kabanata ng K-Beauty at K-Medical. 60+ expansion consulting projects sa Hapon, Tsina, at Southeast Asia.",
+    "historyHeadingMain": "Ang ",
+    "historyHeadingEm": "paglalakbay",
+    "historyHeadingTail": " ng BnF.",
+    "historySub": "Itinatag sa Seoul noong 2019, ang BnF ay nagtatakda ng bagong pamantayan para sa medical at beauty marketing.",
+    "timeline": [
+      {
+        "year": "2019",
+        "title": "Itinatag ang BnF",
+        "desc": "Inilunsad sa Seoul Gangnam bilang medical at beauty IMC group. Kumuha ng 12 kliyente sa unang taon."
+      },
+      {
+        "year": "2020",
+        "title": "Bumukas ang In-house Studio",
+        "desc": "Dedicated video content studio para sa medical at beauty. Nagtayo ng in-house director at editing teams."
+      },
+      {
+        "year": "2021",
+        "title": "Nagsimula ang Global Expansion",
+        "desc": "Unang Japan at China expansion clients. Nagtayo ng 9-language localization system."
+      },
+      {
+        "year": "2022",
+        "title": "Inilunsad ang MSO Division",
+        "desc": "MSO solution na nagsasama ng hospital management consulting at integrated marketing. Nilikha ang in-house medical ad review system."
+      },
+      {
+        "year": "2023",
+        "title": "Lampas Medical: Luxury at Enterprise",
+        "desc": "Lumawak mula medical at beauty patungong luxury pop-ups at enterprise event production. Lumampas sa 150 kumulatibong kliyente."
+      },
+      {
+        "year": "2024",
+        "title": "MarTech at Automation",
+        "desc": "Inimplementa ang AI-driven ad optimization at CRM automation systems. Lumampas sa 200 kliyente."
+      },
+      {
+        "year": "NOW",
+        "title": "Susunod na kabanata",
+        "desc": "Pinapalawak ang aming Korea-proven marketing system sa buong mundo. Sinusulat ang susunod na pahina ng K-Beauty at K-Medical."
+      }
+    ],
+    "stat4Num": "1,500",
+    "stat4Em": "+",
+    "stat4Label": "Sariling Influencer Roster",
+    "pillar1TitleTail": "",
+    "pillar3TitleTail": ""
+  },
+  "contact": {
+    "headlineLine1": "Magtulungan",
+    "headlineEm": "tayo",
+    "headlineTail": " sa proyekto.",
+    "lede": "Punan ang form at may team member na lalapit sa loob ng isang business day. Para sa mabilisang tanong, OK din ang email o telepono.",
+    "infoHeadingMain": "Detalye ng",
+    "infoHeadingEm": " Contact",
+    "infoSub": "Lahat ng inquiry ay nadidirekta sa info@gbnf.kr. Sumasagot kami sa loob ng isang business day.",
+    "labels": {
+      "company": "Kumpanya",
+      "name": "Pangalan",
+      "position": "Posisyon",
+      "phone": "Telepono",
+      "email": "Email",
+      "type": "Uri ng inquiry",
+      "budget": "Budget",
+      "message": "Mensahe",
+      "email_label": "EMAIL",
+      "phone_label": "PHONE",
+      "location_label": "LOCATION",
+      "hours_label": "HOURS",
+      "careers_label": "CAREERS",
+      "address_label": "ADDRESS",
+      "transit_label": "TRANSIT",
+      "parking_label": "PARKING"
+    },
+    "placeholders": {
+      "company": "hal. BnF Inc.",
+      "name": "Iyong pangalan",
+      "position": "Marketing Lead",
+      "phone": "+63 9XX-XXX-XXXX",
+      "email": "hello@company.com",
+      "select": "Pakipili",
+      "message": "Sabihin sa amin ang tungkol sa inyong proyekto, timeline, at goals."
+    },
+    "typeOptions": [
+      "Brand Strategy at Identity",
+      "Performance Advertising",
+      "Video at Image Content",
+      "Social at Influencer",
+      "PR · Events · Pop-up",
+      "Global Expansion",
+      "MSO · Hospital Operations",
+      "MarTech · Automation",
+      "Full Integration (IMC)",
+      "Iba pa"
+    ],
+    "budgetOptions": [
+      "Mas mababa sa ₱1.4M",
+      "₱1.4M — ₱4.5M",
+      "₱4.5M — ₱14M",
+      "₱14M — ₱45M",
+      "₱45M+",
+      "Pag-uusapan"
+    ],
+    "submit": "Ipadala ang inquiry →",
+    "submitNote": "Ang impormasyong ipinapadala ay ginagamit lamang para sa inquiry response at pinangangasiwaan ayon sa naaangkop na batas.",
+    "successMessage": "Magbubukas ang mail app. Pakitapos ang pagpapadala. Sa production, magiging awtomatiko ito.",
+    "hoursValue": "Lun–Bie 10:00 — 19:00 (KST)",
+    "addressValue": "25, Nonhyeon-ro 160-gil, Gangnam-gu, Seoul",
+    "transitValue": "6 minuto lakad mula Hakdong Station (Line 7) / 8 minuto mula Gangnam-gu Office (Bundang Line)",
+    "parkingValue": "2 oras libreng parking sa basement",
+    "studioHeading": "BnF",
+    "studioHeadingEm": " Studio",
+    "studioDesc": "Ang BnF headquarters sa 25 Nonhyeon-ro 160-gil, Seoul Gangnam. Meeting rooms, photography studio, at editing suites lahat sa isang lugar.",
+    "faqLabel": "FAQ",
+    "faqHeading": "Madalas na ",
+    "faqHeadingEm": "tanong",
+    "faqSub": "Tingnan ang FAQ namin bago lumapit.",
+    "faq": [
+      {
+        "q": "Ano ang minimum project size?",
+        "a": "Depende sa serbisyo. Nag-uumpisa ang one-off campaigns sa ~₱1.4M. Ang integrated IMC ay nagsisimula sa ~₱4.5M/buwan. Sa malinaw na goals, kakausapin namin kayo anuman ang sukat."
+      },
+      {
+        "q": "Pwede bang isang service area lang?",
+        "a": "Oo. Maaaring pumili sa alinman sa 8 disiplina (branding, performance, content, social, PR, global, MSO, MarTech). Pero ang lakas ng BnF ay sa integrated operations—pagsama ng 2+ areas ay karaniwang nagbibigay ng pinakamagandang resulta."
+      },
+      {
+        "q": "Paano ninyo hinahandle ang medical ad compliance?",
+        "a": "Pinapanatili ng BnF ang 98% medical ad approval rate. Lahat ng copy, images, at videos ay dumadaan sa internal review laban sa compliance guidelines bago opisyal na isubmit. May kasamang pharmaceutical at labeling law review."
+      },
+      {
+        "q": "Gaano katagal ang typical project?",
+        "a": "Depende sa serbisyo. Full branding projects 8–12 linggo. Performance advertising buwanan. Pop-ups at events 4–8 linggo. Global expansion consulting 3–6 buwan."
+      },
+      {
+        "q": "Maaari ba kayong magtrabaho sa labas ng medical at beauty?",
+        "a": "Oo. Medical at beauty ang pangunahin namin, pero may cases kami sa luxury, enterprise events, F&B, at iba pa. Ang prinsipyo ng magandang marketing ay nakakaapply sa lahat ng industriya."
+      },
+      {
+        "q": "Anong markets ang sakop ninyo para sa global expansion?",
+        "a": "Hapon, mainland China, Taiwan, Mongolia, Vietnam, Thailand, Pilipinas, Indonesia, Malaysia—9 markets. Kasama ang local channel entry, 9-language localization, at medical tourism packages."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Let's build something great",
+    "headlineLine1Pre": "Buoin ang iyong susunod na ",
+    "headlineEm": "brand",
+    "headlineLine1Tail": "",
+    "headlineLine2": " kasama namin.",
+    "btn": "Magtanong sa Proyekto →"
+  },
+  "footer": {
+    "tagline": "Medical · Beauty IMC Marketing Group. Mula sa nakikita hanggang sa hindi nakikita.",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "companyLinks": {
+      "about": "Tungkol",
+      "work": "Work",
+      "contact": "Contact",
+      "careers": "Careers"
+    },
+    "copyright": "© 2026 BnF Inc."
+  },
+  "common": {
+    "home": "HOME",
+    "next": "Susunod",
+    "prev": "Nakaraan",
+    "close": "Isara",
+    "loading": "Naglo-load...",
+    "viewMore": "Alamin pa →"
+  }
+}

@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&family=Noto+Serif+KR:wght@300;400;500;700&family=Space+Grotesk:wght@400;500;600&display=swap');
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css');
+
+:root {
+  --white: #ffffff;
+  --bg: #fafaf7;
+  --paper: #f5f3ec;
+  --ink: #0a0a0a;
+  --gray-700: #404040;
+  --gray-500: #737373;
+  --gray-400: #a3a3a3;
+  --gray-300: #d4d4d4;
+  --gray-200: #e5e5e5;
+  --gold: #b8935a;
+  --gold-deep: #8b6f3f;
+  --navy: #0a2540;
+  --line: rgba(10, 10, 10, 0.08);
+  --line-strong: rgba(10, 10, 10, 0.16);
+  --font-serif: 'Noto Serif KR', Garamond, serif;
+  --font-sans: 'Pretendard Variable', Pretendard, 'Inter', -apple-system, system-ui, sans-serif;
+  --font-display: 'Inter', Pretendard, sans-serif;
+  --font-mono: 'Space Grotesk', monospace;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: var(--white); color: var(--ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { overflow-x: hidden; font-size: 16px; line-height: 1.7; letter-spacing: -0.005em; }
+img { max-width: 100%; display: block; }
+a { color: inherit; text-decoration: none; transition: color 0.25s ease; }
+button { font-family: inherit; cursor: pointer; border: none; background: none; }
+input, textarea, select { font-family: inherit; font-size: inherit; color: inherit; }
+::selection { background: var(--ink); color: #fff; }
+
+.reveal { opacity: 0; transform: translateY(40px); transition: opacity 1s ease, transform 1s cubic-bezier(0.2, 0.8, 0.2, 1); }
+.reveal.in { opacity: 1; transform: translateY(0); }
+
+.section-label { font-family: var(--font-mono); font-size: 11px; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gray-500); display: flex; align-items: center; gap: 14px; }
+.section-label::before { content: ''; display: block; width: 24px; height: 1px; background: var(--gray-400); }

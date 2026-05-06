@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="glow" cx="20%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#c9a66b" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#c9a66b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="80%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#c9a66b" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#c9a66b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0a0a0a"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+  <line x1="80" y1="80" x2="1120" y2="80" stroke="#c9a66b" stroke-width="1" opacity="0.3"/>
+  <line x1="80" y1="550" x2="1120" y2="550" stroke="#c9a66b" stroke-width="1" opacity="0.3"/>
+  <text x="80" y="60" font-family="'JetBrains Mono', monospace" font-size="14" fill="#a8a39a" letter-spacing="2">— EST. 2024 / SEOUL</text>
+  <text x="80" y="320" font-family="Georgia, 'Cormorant Garamond', serif" font-size="120" font-weight="400" fill="#f5f1e8" letter-spacing="-3">
+    Proven by <tspan fill="#c9a66b" font-style="italic">tech.</tspan>
+  </text>
+  <text x="80" y="430" font-family="Georgia, 'Cormorant Garamond', serif" font-size="120" font-weight="400" fill="#f5f1e8" letter-spacing="-3">
+    Defined by <tspan fill="#c9a66b" font-style="italic">taste.</tspan>
+  </text>
+  <text x="80" y="535" font-family="'JetBrains Mono', monospace" font-size="14" fill="#a8a39a" letter-spacing="2">— GBNF.KR</text>
+  <text x="1120" y="60" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="14" fill="#a8a39a" letter-spacing="2">HYPER-AUTOMATED MARTECH GROUP</text>
+  <text x="1120" y="535" text-anchor="end" font-family="Georgia, serif" font-style="italic" font-size="48" fill="#c9a66b">B&amp;F</text>
+</svg>

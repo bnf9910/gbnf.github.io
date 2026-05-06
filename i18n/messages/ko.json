@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "siteName": "BnF",
+    "tagline": "의료·뷰티 IMC 마케팅 그룹",
+    "established": "EST. 2019 — SEOUL"
+  },
+  "nav": {
+    "work": "WORK",
+    "services": "SERVICES",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "cta": "프로젝트 문의"
+  },
+  "hero": {
+    "scroll": "SCROLL ↓",
+    "tagline": "의료·뷰티 IMC 마케팅 그룹",
+    "replay": "↻ Replay"
+  },
+  "intro": {
+    "label": "통합 마케팅",
+    "headingLine1": "보이는 곳부터",
+    "headingLine2": "보이지 않는 곳까지,",
+    "headingEm": "모두",
+    "headingTail": "를 짓습니다.",
+    "p1Pre": "BnF는 단순히 광고를 만드는 회사가 아닙니다. ",
+    "p1Strong": "브랜드의 앞과 뒤, 모든 접점",
+    "p1Tail": "을 함께 설계합니다.",
+    "p2": "고객이 마주하는 광고·콘텐츠·캠페인부터 보이지 않는 곳에서 작동하는 데이터·자동화·운영 시스템까지. 파편화된 마케팅을 하나로 묶고, 병원·브랜드의 동반자로 함께 짓습니다.",
+    "stat1Num": "200",
+    "stat1Em": "+",
+    "stat1Label": "의료·뷰티 클라이언트",
+    "stat2Num": "98",
+    "stat2Em": "%",
+    "stat2Label": "의료광고심의 통과율",
+    "stat3Num": "9",
+    "stat3Em": "개국",
+    "stat3Label": "글로벌 진출 컨설팅"
+  },
+  "services": {
+    "headlineLine1": "8개의 마케팅,",
+    "headlineLine2": "하나의",
+    "headlineEm": "전략",
+    "headlineTail": ".",
+    "desc": "필요한 영역만 선택해도, 전체를 의뢰해도 좋습니다.",
+    "viewMore": "자세히 보기 →",
+    "viewAll": "전체 보기",
+    "imcExplainer": {
+      "label": "통합 마케팅 커뮤니케이션",
+      "headingLine1": "통합 마케팅 커뮤니케이션,",
+      "headingLine2": "",
+      "headingEm": "IMC",
+      "headingTail": "란 무엇인가.",
+      "p1Pre": "IMC(Integrated Marketing Communications)는 분리된 마케팅 채널을 ",
+      "p1Strong": "하나의 일관된 흐름으로 통합",
+      "p1Tail": "하는 전략입니다.",
+      "p2": "과거에는 광고는 광고대로, PR은 PR대로, SNS는 SNS대로 따로 움직였습니다. 하지만 지금의 소비자는 한 브랜드를 검색·SNS·매장·광고에서 동시에 마주합니다. 한 채널의 메시지가 다른 채널과 어긋나는 순간, 브랜드 신뢰는 무너집니다.",
+      "p3Pre": "BnF는 8개 영역을 ",
+      "p3Strong": "하나의 팀, 하나의 전략, 하나의 데이터",
+      "p3Tail": "로 운영합니다. 브랜딩 회의에서 결정된 톤이 광고 카피로, 콘텐츠로, 인플루언서 메시지로, 팝업 행사 연출로 그대로 흐릅니다.",
+      "flowTitle": "통합되는 8개 영역"
+    },
+    "items": {
+      "branding": {
+        "cat": "Brand Strategy",
+        "titleMain": "브랜드 ",
+        "titleEm": "전략",
+        "desc": "병원·명품·대기업까지. 네이밍·BI/CI부터 시장에서 통하는 정체성.",
+        "tags": [
+          "네이밍",
+          "BI/CI",
+          "가이드라인"
+        ]
+      },
+      "performance": {
+        "cat": "Performance",
+        "titleMain": "퍼포먼스 ",
+        "titleEm": "광고",
+        "desc": "구글·메타·네이버·카카오. 의료광고법과 ROAS를 동시에.",
+        "tags": [
+          "구글애즈",
+          "메타",
+          "네이버"
+        ]
+      },
+      "content": {
+        "cat": "Content",
+        "titleMain": "영상·이미지 ",
+        "titleEm": "콘텐츠",
+        "desc": "자체 스튜디오에서 화보·릴스·숏츠까지 일괄 제작.",
+        "tags": [
+          "스튜디오",
+          "편집",
+          "모션"
+        ]
+      },
+      "social": {
+        "cat": "Social & Influencer",
+        "titleMain": "소셜·",
+        "titleEm": "인플루언서",
+        "desc": "자체 인플루언서 풀 1,500명+. SNS·KOL·체험단까지.",
+        "tags": [
+          "SNS",
+          "인플루언서",
+          "KOL"
+        ]
+      },
+      "pr": {
+        "cat": "PR & Events",
+        "titleMain": "PR·",
+        "titleEm": "이벤트",
+        "desc": "언론 PR·학술활동·명품/대기업 팝업과 행사 기획까지.",
+        "tags": [
+          "언론 PR",
+          "학술 PR",
+          "팝업·행사"
+        ]
+      },
+      "global": {
+        "cat": "Global",
+        "titleMain": "글로벌 ",
+        "titleEm": "진출",
+        "desc": "9개국 진출 컨설팅. 현지 채널·로컬라이즈·의료관광.",
+        "tags": [
+          "중국",
+          "일본",
+          "K-뷰티"
+        ]
+      },
+      "mso": {
+        "cat": "MSO",
+        "titleMain": "MSO·",
+        "titleEm": "경영지원",
+        "desc": "병원 경영컨설팅 + 통합 마케팅. 심의·법무까지 동반.",
+        "tags": [
+          "경영지원",
+          "심의대행",
+          "병원전용"
+        ]
+      },
+      "martech": {
+        "cat": "MarTech",
+        "titleMain": "마테크·",
+        "titleEm": "자동화",
+        "desc": "CRM·MA·AI 광고 최적화. 1:1 개인화 마케팅.",
+        "tags": [
+          "CRM",
+          "자동화",
+          "AI"
+        ]
+      }
+    }
+  },
+  "work": {
+    "headlineEm": "Selected",
+    "headlineTail": "Work.",
+    "viewAll": "전체 케이스 →",
+    "filters": {
+      "all": "전체",
+      "branding": "브랜딩",
+      "performance": "퍼포먼스",
+      "content": "콘텐츠",
+      "popup": "팝업·이벤트",
+      "global": "글로벌",
+      "mso": "MSO",
+      "luxury": "명품"
+    },
+    "countSuffix": "개 케이스",
+    "lede": "의료·뷰티 브랜드부터 명품·대기업 캠페인까지. 200곳이 넘는 클라이언트와 함께 만든 결과물의 일부입니다."
+  },
+  "about": {
+    "label": "About BnF",
+    "pageTitleLine1": "광고를 만드는 회사가 아닙니다.",
+    "pageTitleLine2Em": "브랜드",
+    "pageTitleLine2Tail": "를 짓는 회사입니다.",
+    "lede": "BnF는 2019년 서울에서 시작된 의료·뷰티 IMC 마케팅 그룹입니다. 보이는 모든 곳과 보이지 않는 모든 곳을 함께 설계합니다.",
+    "manifestoMainLine1": "좋은 광고는 잊혀지지만,",
+    "manifestoMainLine2Em": "좋은 브랜드",
+    "manifestoMainLine2Tail": "는 기억됩니다.",
+    "manifestoQuiet": "2019년, 의료·뷰티 마케팅이 단순한 광고 집행에 머물러 있을 때, BnF는 다른 길을 택했습니다. 광고가 아닌 브랜드를, 매출이 아닌 지속가능한 시스템을 짓는 일. 그것이 200곳이 넘는 클라이언트와 함께해 온 방식입니다.",
+    "bfMeaningHeading": "BnF의 ",
+    "bfMeaningHeadingEm": "의미",
+    "bfMeaningTail": ".",
+    "bfMeaningSub": "회사명 BnF는 'Back & Front'의 약어. 브랜드의 앞과 뒤, 모든 접점을 다룬다는 철학.",
+    "bfBackTitle": "BACK",
+    "bfBackSubLine1": "보이지 않는 곳에서",
+    "bfBackSubLine2Em": "작동하는",
+    "bfBackSubLine2Tail": "인프라.",
+    "bfBackText": "데이터·자동화·운영·심의·시스템. 고객이 마주하지 않는 곳에서 묵묵히 작동합니다. 마케팅의 8할은 보이지 않는 곳에서 결정됩니다.",
+    "bfBackList": [
+      "CRM·DMP·MA 운영",
+      "의료광고심의 대행",
+      "법무·약사법 검토",
+      "데이터 분석·리포팅",
+      "병원 경영지원 (MSO)"
+    ],
+    "bfFrontTitle": "FRONT",
+    "bfFrontSubLine1": "소비자가 마주하는",
+    "bfFrontSubLine2Em": "모든",
+    "bfFrontSubLine2Tail": "표현물.",
+    "bfFrontText": "광고·콘텐츠·캠페인·이벤트·팝업. 브랜드의 얼굴이자 메시지입니다. 보이는 모든 순간을 디자인하고 연출합니다.",
+    "bfFrontList": [
+      "네이밍·BI/CI",
+      "퍼포먼스 광고 운영",
+      "영상·이미지 콘텐츠",
+      "SNS·인플루언서 캠페인",
+      "팝업·런칭 이벤트"
+    ],
+    "pillarsLabel": "우리의 방식",
+    "pillarsHeadingMain": "BnF가 일하는 ",
+    "pillarsHeadingEm": "4가지 원칙",
+    "pillarsHeadingTail": ".",
+    "pillarsSub": "200곳이 넘는 의료·뷰티 클라이언트와 함께해 온 방식. 어떤 산업·어떤 규모의 브랜드든 동일하게 적용됩니다.",
+    "pillar1TitleMain": "의료·뷰티에 ",
+    "pillar1TitleEm": "특화",
+    "pillar1Desc": "의료광고법·약사법·표시광고법까지 아는 마케팅 팀. 200곳 이상의 병원·뷰티 브랜드와 함께해 온 깊은 산업 이해도. 의료광고 심의 통과율 98%.",
+    "pillar2TitleMain": "분야의 ",
+    "pillar2TitleEm": "경계 없는",
+    "pillar2TitleTail": " 확장",
+    "pillar2Desc": "병원·뷰티에서 시작했지만, 명품 브랜드 팝업·대기업 행사 기획·학술 PR까지. 좋은 마케팅의 원칙은 어디서나 통합니다.",
+    "pillar3TitleMain": "대행이 아닌 ",
+    "pillar3TitleEm": "동반",
+    "pillar3Desc": "브랜드의 처음부터 끝까지 함께 짓는 동반자. 캠페인이 끝나도 관계는 이어지고, 매출 너머의 자산—브랜드 인지·신뢰·충성도—을 함께 쌓아갑니다.",
+    "pillar4TitleMain": "로컬을 넘어 ",
+    "pillar4TitleEm": "글로벌",
+    "pillar4TitleTail": "로",
+    "pillar4Desc": "한국에서 시작된 브랜드를 9개국에 닿게 하는 일. K-뷰티·K-메디컬의 다음 챕터를 함께 씁니다. 일본·중국·동남아 진출 컨설팅 누적 60건.",
+    "historyHeadingMain": "BnF의 ",
+    "historyHeadingEm": "여정",
+    "historyHeadingTail": ".",
+    "historySub": "2019년 서울에서 시작한 BnF는 의료·뷰티 마케팅의 새로운 기준을 만들어 왔습니다.",
+    "timeline": [
+      {
+        "year": "2019",
+        "title": "BnF 설립",
+        "desc": "서울 강남에서 의료·뷰티 특화 IMC 그룹으로 출범. 첫 해 클라이언트 12곳 확보."
+      },
+      {
+        "year": "2020",
+        "title": "자체 콘텐츠 스튜디오 오픈",
+        "desc": "의료·뷰티 영상 콘텐츠 전용 스튜디오 운영 시작. 자체 디렉터·편집팀 구성."
+      },
+      {
+        "year": "2021",
+        "title": "글로벌 진출 컨설팅 본격화",
+        "desc": "일본·중국 진출 클라이언트 첫 케이스. 9개 언어 로컬라이즈 시스템 구축."
+      },
+      {
+        "year": "2022",
+        "title": "MSO 사업부 신설",
+        "desc": "병원 경영컨설팅 + 통합 마케팅을 결합한 MSO 솔루션 런칭. 의료광고심의 자체 검토 시스템 개발."
+      },
+      {
+        "year": "2023",
+        "title": "분야 확장: 명품·대기업 PR",
+        "desc": "의료·뷰티에서 명품 브랜드 팝업·대기업 행사 기획으로 영역 확장. 클라이언트 누적 150곳 돌파."
+      },
+      {
+        "year": "2024",
+        "title": "마테크·자동화 본격 도입",
+        "desc": "AI 기반 광고 최적화·CRM 자동화 시스템 도입. 클라이언트 200곳 돌파."
+      },
+      {
+        "year": "NOW",
+        "title": "다음 챕터",
+        "desc": "한국에서 검증된 마케팅 시스템을 글로벌로 확장 중. K-뷰티·K-메디컬의 다음 페이지를 짓습니다."
+      }
+    ],
+    "stat4Num": "1,500",
+    "stat4Em": "+",
+    "stat4Label": "자체 인플루언서 풀",
+    "pillar1TitleTail": "",
+    "pillar3TitleTail": ""
+  },
+  "contact": {
+    "headlineLine1": "프로젝트를",
+    "headlineEm": "함께",
+    "headlineTail": "합니다.",
+    "lede": "양식을 작성해주시면 1영업일 내로 담당자가 직접 연락드립니다. 간단한 문의는 이메일·전화로도 환영합니다.",
+    "infoHeadingMain": "연락처",
+    "infoHeadingEm": "안내",
+    "infoSub": "모든 문의는 info@gbnf.kr로 통합 접수됩니다. 1영업일 내로 답변드립니다.",
+    "labels": {
+      "company": "회사명",
+      "name": "이름",
+      "position": "직책",
+      "phone": "연락처",
+      "email": "이메일",
+      "type": "문의 종류",
+      "budget": "예산 규모",
+      "message": "문의 사항",
+      "email_label": "EMAIL",
+      "phone_label": "PHONE",
+      "location_label": "LOCATION",
+      "hours_label": "HOURS",
+      "careers_label": "CAREERS",
+      "address_label": "ADDRESS",
+      "transit_label": "TRANSIT",
+      "parking_label": "PARKING"
+    },
+    "placeholders": {
+      "company": "예: BnF Inc.",
+      "name": "홍길동",
+      "position": "마케팅 팀장",
+      "phone": "010-0000-0000",
+      "email": "hello@company.com",
+      "select": "선택해주세요",
+      "message": "진행하고자 하는 프로젝트, 일정, 목표 등을 자유롭게 작성해주세요."
+    },
+    "typeOptions": [
+      "브랜드 전략·아이덴티티",
+      "퍼포먼스 광고",
+      "영상·이미지 콘텐츠",
+      "소셜·인플루언서",
+      "PR·이벤트·팝업",
+      "글로벌 진출",
+      "MSO·병원 경영지원",
+      "마테크·자동화",
+      "전체 통합 (IMC)",
+      "기타"
+    ],
+    "budgetOptions": [
+      "3,000만원 이하",
+      "3,000만원 — 1억원",
+      "1억원 — 3억원",
+      "3억원 — 10억원",
+      "10억원 이상",
+      "협의 필요"
+    ],
+    "submit": "문의 보내기 →",
+    "submitNote": "제출 시 입력하신 정보는 문의 응대 목적으로만 사용되며, 관련 법령에 따라 안전하게 관리됩니다.",
+    "successMessage": "메일 앱이 열립니다. 전송을 마쳐주세요. 실제 배포 시에는 자동으로 발송됩니다.",
+    "hoursValue": "평일 10:00 — 19:00 (KST)",
+    "addressValue": "서울특별시 강남구 논현로 160길 25",
+    "transitValue": "7호선 학동역 도보 6분 / 분당선 강남구청역 도보 8분",
+    "parkingValue": "건물 지하 주차 2시간 무료",
+    "studioHeading": "BnF",
+    "studioHeadingEm": "스튜디오",
+    "studioDesc": "서울 강남구 논현로 160길 25에 위치한 BnF 본사. 회의·촬영 스튜디오·자체 편집실까지 한 공간에 있습니다.",
+    "faqLabel": "FAQ",
+    "faqHeading": "자주 묻는 ",
+    "faqHeadingEm": "질문",
+    "faqSub": "문의 전 자주 묻는 질문을 확인해주세요.",
+    "faq": [
+      {
+        "q": "최소 프로젝트 규모는 어떻게 되나요?",
+        "a": "영역에 따라 다릅니다. 단발성 캠페인은 3,000만원부터, 통합 IMC는 월 단위 1억원부터 진행합니다. 다만 명확한 목표가 있다면 규모와 무관하게 상담드립니다."
+      },
+      {
+        "q": "특정 영역만 의뢰할 수 있나요?",
+        "a": "가능합니다. 8개 영역(브랜딩·퍼포먼스·콘텐츠·소셜·PR·글로벌·MSO·마테크) 중 필요한 것만 선택해 진행할 수 있습니다. 다만 BnF의 강점은 통합 운영이라, 가능하면 2개 이상 영역을 묶어 의뢰하실 때 가장 큰 성과가 나옵니다."
+      },
+      {
+        "q": "의료광고 심의는 어떻게 처리되나요?",
+        "a": "BnF는 의료광고 심의 통과율 98%를 보유하고 있습니다. 광고 카피·이미지·영상 모두 심의 가이드라인에 맞춰 1차 검토 후 심의 신청을 진행합니다. 약사법·표시광고법까지 자체 법무 검토 동반."
+      },
+      {
+        "q": "프로젝트 진행 기간은 보통 얼마나 걸리나요?",
+        "a": "영역에 따라 다릅니다. 브랜딩 풀 프로젝트는 8~12주, 퍼포먼스 광고는 월 단위 운영, 팝업·이벤트는 4~8주가 일반적입니다. 글로벌 진출 컨설팅은 3~6개월 단위로 진행합니다."
+      },
+      {
+        "q": "의료·뷰티가 아닌 다른 산업도 가능한가요?",
+        "a": "가능합니다. 의료·뷰티가 주력이지만 명품·럭셔리·대기업 행사·F&B 등 다양한 산업 케이스를 보유하고 있습니다. 좋은 마케팅의 원칙은 산업을 가리지 않습니다."
+      },
+      {
+        "q": "해외 진출 컨설팅은 어떤 국가가 가능한가요?",
+        "a": "현재 일본·중국 본토·대만·몽골·베트남·태국·필리핀·인도네시아·말레이시아 등 9개국에 대한 진출 컨설팅이 가능합니다. 현지 채널 진입, 9개 언어 콘텐츠 로컬라이즈, 의료관광 패키지 설계까지."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Let's build something great",
+    "headlineLine1Pre": "당신의 다음 ",
+    "headlineEm": "브랜드",
+    "headlineLine1Tail": "를",
+    "headlineLine2": "함께 짓습니다.",
+    "btn": "프로젝트 문의 →"
+  },
+  "footer": {
+    "tagline": "의료·뷰티 IMC 마케팅 그룹. 보이는 곳부터 보이지 않는 곳까지.",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "companyLinks": {
+      "about": "소개",
+      "work": "실적",
+      "contact": "문의",
+      "careers": "채용"
+    },
+    "copyright": "© 2026 BnF Inc."
+  },
+  "common": {
+    "home": "HOME",
+    "next": "다음",
+    "prev": "이전",
+    "close": "닫기",
+    "loading": "로딩 중...",
+    "viewMore": "자세히 보기 →"
+  }
+}

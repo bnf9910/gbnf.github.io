@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "siteName": "BnF",
+    "tagline": "醫美IMC行銷集團",
+    "established": "EST. 2019 — SEOUL"
+  },
+  "nav": {
+    "work": "WORK",
+    "services": "SERVICES",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "cta": "專案諮詢"
+  },
+  "hero": {
+    "scroll": "SCROLL ↓",
+    "tagline": "醫美IMC行銷集團",
+    "replay": "↻ Replay"
+  },
+  "intro": {
+    "label": "整合行銷",
+    "headingLine1": "從看得見的地方",
+    "headingLine2": "到看不見的地方,",
+    "headingEm": "全部",
+    "headingTail": "由我們打造。",
+    "p1Pre": "BnF 不只是廣告公司。我們與您共同設計",
+    "p1Strong": "品牌的前後端,所有接觸點",
+    "p1Tail": "。",
+    "p2": "從消費者接觸的廣告、內容、活動,到背後默默運作的數據、自動化、營運系統。我們將碎片化的行銷整合為一體,以醫院與品牌的夥伴身分共同打造。",
+    "stat1Num": "200",
+    "stat1Em": "+",
+    "stat1Label": "醫美客戶",
+    "stat2Num": "98",
+    "stat2Em": "%",
+    "stat2Label": "醫療廣告審查通過率",
+    "stat3Num": "9",
+    "stat3Em": "國",
+    "stat3Label": "全球拓展諮詢"
+  },
+  "services": {
+    "headlineLine1": "8 個行銷領域,",
+    "headlineLine2": "一個",
+    "headlineEm": "策略",
+    "headlineTail": "。",
+    "desc": "可單獨委託所需領域,亦可委託全部。",
+    "viewMore": "瞭解更多 →",
+    "viewAll": "查看全部",
+    "imcExplainer": {
+      "label": "整合行銷傳播",
+      "headingLine1": "整合行銷傳播,",
+      "headingLine2": "",
+      "headingEm": "IMC",
+      "headingTail": "是什麼。",
+      "p1Pre": "IMC(整合行銷傳播)是將分散的行銷管道",
+      "p1Strong": "整合為一致流程",
+      "p1Tail": "的策略。",
+      "p2": "過去廣告歸廣告、PR 歸 PR、社群歸社群,各自分開運作。但今日的消費者會同時在搜尋、社群、門市、廣告中遇到同一個品牌。一旦某個管道的訊息與其他管道脫節,品牌信任就會崩潰。",
+      "p3Pre": "BnF 用",
+      "p3Strong": "一個團隊、一個策略、一組數據",
+      "p3Tail": "運作全部 8 個領域。品牌會議中決定的調性,會原樣流入廣告文案、內容、網紅訊息、快閃活動呈現中。",
+      "flowTitle": "整合的 8 個領域"
+    },
+    "items": {
+      "branding": {
+        "cat": "Brand Strategy",
+        "titleMain": "品牌",
+        "titleEm": "策略",
+        "desc": "醫院、精品、大企業。從命名、BI/CI 到市場認可的身分。",
+        "tags": [
+          "命名",
+          "BI/CI",
+          "規範"
+        ]
+      },
+      "performance": {
+        "cat": "Performance",
+        "titleMain": "效果",
+        "titleEm": "廣告",
+        "desc": "Google、Meta、Naver、Kakao。同時兼顧醫療廣告法與 ROAS。",
+        "tags": [
+          "Google Ads",
+          "Meta",
+          "Naver"
+        ]
+      },
+      "content": {
+        "cat": "Content",
+        "titleMain": "影像·圖像",
+        "titleEm": "內容",
+        "desc": "自有攝影棚一站式製作大片、Reels、短片。",
+        "tags": [
+          "攝影棚",
+          "剪輯",
+          "動態"
+        ]
+      },
+      "social": {
+        "cat": "Social & Influencer",
+        "titleMain": "社群·",
+        "titleEm": "網紅",
+        "desc": "自有網紅資源 1,500+。SNS、KOL、體驗團一應俱全。",
+        "tags": [
+          "SNS",
+          "網紅",
+          "KOL"
+        ]
+      },
+      "pr": {
+        "cat": "PR & Events",
+        "titleMain": "PR·",
+        "titleEm": "活動",
+        "desc": "媒體 PR、學術活動、精品/大企業快閃與活動企劃。",
+        "tags": [
+          "媒體 PR",
+          "學術 PR",
+          "快閃·活動"
+        ]
+      },
+      "global": {
+        "cat": "Global",
+        "titleMain": "全球",
+        "titleEm": "拓展",
+        "desc": "9 國拓展諮詢。在地通路、在地化、醫療觀光。",
+        "tags": [
+          "中國",
+          "日本",
+          "K-美妝"
+        ]
+      },
+      "mso": {
+        "cat": "MSO",
+        "titleMain": "MSO·",
+        "titleEm": "經營支援",
+        "desc": "醫院經營諮詢+整合行銷。審查、法務一體化。",
+        "tags": [
+          "經營支援",
+          "審查代辦",
+          "醫院專屬"
+        ]
+      },
+      "martech": {
+        "cat": "MarTech",
+        "titleMain": "行銷科技·",
+        "titleEm": "自動化",
+        "desc": "CRM、MA、AI 廣告最佳化。一對一個人化行銷。",
+        "tags": [
+          "CRM",
+          "自動化",
+          "AI"
+        ]
+      }
+    }
+  },
+  "work": {
+    "headlineEm": "Selected",
+    "headlineTail": "Work.",
+    "viewAll": "查看全部案例 →",
+    "filters": {
+      "all": "全部",
+      "branding": "品牌",
+      "performance": "效果",
+      "content": "內容",
+      "popup": "快閃·活動",
+      "global": "全球",
+      "mso": "MSO",
+      "luxury": "精品"
+    },
+    "countSuffix": " 個案例",
+    "lede": "從醫美品牌到精品與大企業活動,與超過 200 家客戶共同打造的部分作品。"
+  },
+  "about": {
+    "label": "About BnF",
+    "pageTitleLine1": "我們不是做廣告的公司,",
+    "pageTitleLine2Em": "我們是建造品牌",
+    "pageTitleLine2Tail": "的公司。",
+    "lede": "BnF 是 2019 年於首爾創立的醫美 IMC 行銷集團。設計品牌可見與不可見的所有部分。",
+    "manifestoMainLine1": "好廣告會被遺忘,",
+    "manifestoMainLine2Em": "好品牌",
+    "manifestoMainLine2Tail": "會被記住。",
+    "manifestoQuiet": "2019 年,當醫美行銷還停留在簡單的廣告投放時,BnF 選擇了另一條路。建造品牌而非廣告,建造可持續系統而非追逐銷售。這是與超過 200 家客戶共同走過的方式。",
+    "bfMeaningHeading": "BnF 的",
+    "bfMeaningHeadingEm": "意義",
+    "bfMeaningTail": "。",
+    "bfMeaningSub": "公司名 BnF 是 'Back & Front' 的縮寫。涵蓋品牌前後所有接觸點的哲學。",
+    "bfBackTitle": "BACK",
+    "bfBackSubLine1": "在看不見的地方",
+    "bfBackSubLine2Em": "運作的",
+    "bfBackSubLine2Tail": "基礎設施。",
+    "bfBackText": "數據、自動化、營運、審查、系統。在客戶接觸不到的地方默默運作。行銷的八成在看不見的地方決定。",
+    "bfBackList": [
+      "CRM·DMP·MA 營運",
+      "醫療廣告審查代辦",
+      "法務·藥事法審查",
+      "數據分析·報表",
+      "醫院經營支援 (MSO)"
+    ],
+    "bfFrontTitle": "FRONT",
+    "bfFrontSubLine1": "消費者接觸的",
+    "bfFrontSubLine2Em": "所有",
+    "bfFrontSubLine2Tail": "表現。",
+    "bfFrontText": "廣告、內容、活動、事件、快閃。是品牌的面孔與聲音。設計與導演每一個可見瞬間。",
+    "bfFrontList": [
+      "命名·BI/CI",
+      "效果廣告營運",
+      "影像·圖像內容",
+      "SNS·網紅活動",
+      "快閃·上市活動"
+    ],
+    "pillarsLabel": "我們的方式",
+    "pillarsHeadingMain": "BnF 工作的",
+    "pillarsHeadingEm": "4 項原則",
+    "pillarsHeadingTail": "。",
+    "pillarsSub": "與超過 200 家醫美客戶共同走過的方式。無論產業、無論品牌規模都同樣適用。",
+    "pillar1TitleMain": "專注於",
+    "pillar1TitleEm": "醫美",
+    "pillar1Desc": "懂醫療廣告法、藥事法、廣告標示法的行銷團隊。與 200 多家醫院與美妝品牌合作累積的深度產業理解。醫療廣告審查通過率 98%。",
+    "pillar2TitleMain": "無",
+    "pillar2TitleEm": "領域邊界",
+    "pillar2TitleTail": "的擴展",
+    "pillar2Desc": "從醫美起步,擴展到精品快閃、大企業活動企劃、學術 PR。好行銷的原則在哪裡都通用。",
+    "pillar3TitleMain": "不是代理,而是",
+    "pillar3TitleEm": "夥伴",
+    "pillar3Desc": "從品牌起點到終點同行的夥伴。活動結束後關係仍延續,共同累積超越銷售的資產——品牌認知、信任、忠誠度。",
+    "pillar4TitleMain": "從在地到",
+    "pillar4TitleEm": "全球",
+    "pillar4TitleTail": "",
+    "pillar4Desc": "把韓國誕生的品牌帶到 9 個國家。共同書寫 K-美妝與 K-醫美的下一章。日本、中國、東南亞拓展諮詢累計 60 件。",
+    "historyHeadingMain": "BnF 的",
+    "historyHeadingEm": "歷程",
+    "historyHeadingTail": "。",
+    "historySub": "2019 年於首爾創立,BnF 一直在創造醫美行銷的新標準。",
+    "timeline": [
+      {
+        "year": "2019",
+        "title": "BnF 創立",
+        "desc": "於首爾江南創立,成為醫美專屬 IMC 集團。第一年獲得 12 家客戶。"
+      },
+      {
+        "year": "2020",
+        "title": "自有內容工作室開幕",
+        "desc": "醫美影像內容專屬工作室開始營運。組建自有導演與剪輯團隊。"
+      },
+      {
+        "year": "2021",
+        "title": "全球拓展諮詢正式啟動",
+        "desc": "首批日本、中國拓展客戶案例。建立 9 語言在地化系統。"
+      },
+      {
+        "year": "2022",
+        "title": "MSO 事業部新設",
+        "desc": "推出結合醫院經營諮詢與整合行銷的 MSO 解決方案。開發醫療廣告審查自審系統。"
+      },
+      {
+        "year": "2023",
+        "title": "領域擴展:精品·大企業 PR",
+        "desc": "從醫美擴展至精品快閃、大企業活動企劃。客戶累計突破 150 家。"
+      },
+      {
+        "year": "2024",
+        "title": "行銷科技·自動化全面導入",
+        "desc": "導入 AI 驅動的廣告最佳化與 CRM 自動化系統。客戶突破 200 家。"
+      },
+      {
+        "year": "NOW",
+        "title": "下一章",
+        "desc": "正在將韓國驗證的行銷系統擴展至全球。共同書寫 K-美妝與 K-醫美的下一頁。"
+      }
+    ],
+    "stat4Num": "1,500",
+    "stat4Em": "+",
+    "stat4Label": "自有網紅資源",
+    "pillar1TitleTail": "",
+    "pillar3TitleTail": ""
+  },
+  "contact": {
+    "headlineLine1": "專案",
+    "headlineEm": "共同",
+    "headlineTail": "推進。",
+    "lede": "請填寫表單,負責人將於 1 個工作日內直接聯繫您。簡單諮詢亦可透過郵件或電話進行。",
+    "infoHeadingMain": "聯絡方式",
+    "infoHeadingEm": "資訊",
+    "infoSub": "所有諮詢統一接收至 info@gbnf.kr。1 個工作日內回覆。",
+    "labels": {
+      "company": "公司名",
+      "name": "姓名",
+      "position": "職位",
+      "phone": "聯絡電話",
+      "email": "信箱",
+      "type": "諮詢類型",
+      "budget": "預算規模",
+      "message": "諮詢內容",
+      "email_label": "EMAIL",
+      "phone_label": "PHONE",
+      "location_label": "LOCATION",
+      "hours_label": "HOURS",
+      "careers_label": "CAREERS",
+      "address_label": "ADDRESS",
+      "transit_label": "TRANSIT",
+      "parking_label": "PARKING"
+    },
+    "placeholders": {
+      "company": "例:BnF Inc.",
+      "name": "王小明",
+      "position": "行銷經理",
+      "phone": "+886 0900-000-000",
+      "email": "hello@company.com",
+      "select": "請選擇",
+      "message": "請自由填寫您的專案、時程、目標等資訊。"
+    },
+    "typeOptions": [
+      "品牌策略·身分",
+      "效果廣告",
+      "影像·圖像內容",
+      "社群·網紅",
+      "PR·活動·快閃",
+      "全球拓展",
+      "MSO·醫院經營支援",
+      "行銷科技·自動化",
+      "全面整合 (IMC)",
+      "其他"
+    ],
+    "budgetOptions": [
+      "新台幣 60 萬以下",
+      "60 萬 — 200 萬",
+      "200 萬 — 600 萬",
+      "600 萬 — 2,000 萬",
+      "2,000 萬以上",
+      "面議"
+    ],
+    "submit": "送出諮詢 →",
+    "submitNote": "您提交的資訊僅用於諮詢回覆,並依相關法律安全管理。",
+    "successMessage": "郵件應用即將開啟。請完成傳送。正式部署後將自動傳送。",
+    "hoursValue": "工作日 10:00 — 19:00 (KST)",
+    "addressValue": "首爾特別市江南區論峴路 160 街 25 號",
+    "transitValue": "7 號線鶴洞站步行 6 分鐘 / 盆唐線江南區廳站步行 8 分鐘",
+    "parkingValue": "大樓地下停車場免費 2 小時",
+    "studioHeading": "BnF",
+    "studioHeadingEm": "工作室",
+    "studioDesc": "位於首爾江南區論峴路 160 街 25 號的 BnF 總部。會議、攝影棚、自有剪輯室皆在同一空間。",
+    "faqLabel": "FAQ",
+    "faqHeading": "常見",
+    "faqHeadingEm": "問題",
+    "faqSub": "諮詢前請查看常見問題。",
+    "faq": [
+      {
+        "q": "最低專案規模是多少?",
+        "a": "依領域而異。單次活動起價新台幣 60 萬,整合 IMC 起價月度 200 萬。如有明確目標,無論規模均可諮詢。"
+      },
+      {
+        "q": "可以只委託單一領域嗎?",
+        "a": "可以。可從 8 個領域(品牌、效果、內容、社群、PR、全球、MSO、行銷科技)中選擇所需項目。但 BnF 的優勢在於整合營運,委託 2 個以上領域時通常能獲得最佳成果。"
+      },
+      {
+        "q": "醫療廣告審查如何處理?",
+        "a": "BnF 醫療廣告審查通過率 98%。所有廣告文案、圖像、影像均按審查指引一審後再正式申報。包含藥事法、廣告標示法的自有法務審查。"
+      },
+      {
+        "q": "專案週期一般多久?",
+        "a": "依領域而異。完整品牌專案 8–12 週,效果廣告按月營運,快閃與活動 4–8 週。全球拓展諮詢以 3–6 個月為單位。"
+      },
+      {
+        "q": "醫美以外的產業可以嗎?",
+        "a": "可以。醫美為主力,但擁有精品、企業活動、餐飲等多種產業案例。好行銷的原則不分產業。"
+      },
+      {
+        "q": "海外拓展諮詢涵蓋哪些國家?",
+        "a": "目前可服務於日本、中國大陸、台灣、蒙古、越南、泰國、菲律賓、印尼、馬來西亞 9 個國家。涵蓋在地通路進駐、9 語言內容在地化、醫療觀光套餐設計。"
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Let's build something great",
+    "headlineLine1Pre": "您的下一個",
+    "headlineEm": "品牌",
+    "headlineLine1Tail": ",",
+    "headlineLine2": "由我們共同建造。",
+    "btn": "專案諮詢 →"
+  },
+  "footer": {
+    "tagline": "醫美 IMC 行銷集團。從看得見的地方到看不見的地方。",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "companyLinks": {
+      "about": "關於我們",
+      "work": "案例",
+      "contact": "聯絡我們",
+      "careers": "招募"
+    },
+    "copyright": "© 2026 BnF Inc."
+  },
+  "common": {
+    "home": "HOME",
+    "next": "下一頁",
+    "prev": "上一頁",
+    "close": "關閉",
+    "loading": "載入中...",
+    "viewMore": "瞭解更多 →"
+  }
+}

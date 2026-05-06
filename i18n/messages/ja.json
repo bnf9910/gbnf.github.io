@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "siteName": "BnF",
+    "tagline": "メディカル・ビューティーIMCマーケティンググループ",
+    "established": "EST. 2019 — SEOUL"
+  },
+  "nav": {
+    "work": "WORK",
+    "services": "SERVICES",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "cta": "プロジェクトのご相談"
+  },
+  "hero": {
+    "scroll": "SCROLL ↓",
+    "tagline": "メディカル・ビューティーIMCマーケティンググループ",
+    "replay": "↻ Replay"
+  },
+  "intro": {
+    "label": "統合マーケティング",
+    "headingLine1": "見えるところから",
+    "headingLine2": "見えないところまで、",
+    "headingEm": "すべて",
+    "headingTail": "を築きます。",
+    "p1Pre": "BnFは単に広告を作る会社ではありません。",
+    "p1Strong": "ブランドの表と裏、すべての接点",
+    "p1Tail": "を共に設計します。",
+    "p2": "顧客が出会う広告・コンテンツ・キャンペーンから、見えないところで動くデータ・自動化・運用システムまで。断片化されたマーケティングを一つに束ね、病院・ブランドのパートナーとして共に築き上げます。",
+    "stat1Num": "200",
+    "stat1Em": "+",
+    "stat1Label": "メディカル・ビューティークライアント",
+    "stat2Num": "98",
+    "stat2Em": "%",
+    "stat2Label": "医療広告審査通過率",
+    "stat3Num": "9",
+    "stat3Em": "ヶ国",
+    "stat3Label": "海外進出コンサルティング"
+  },
+  "services": {
+    "headlineLine1": "8つのマーケティング、",
+    "headlineLine2": "ひとつの",
+    "headlineEm": "戦略",
+    "headlineTail": "。",
+    "desc": "必要な領域だけ依頼しても、すべてを依頼しても構いません。",
+    "viewMore": "詳しく見る →",
+    "viewAll": "すべて見る",
+    "imcExplainer": {
+      "label": "統合マーケティングコミュニケーション",
+      "headingLine1": "統合マーケティングコミュニケーション、",
+      "headingLine2": "",
+      "headingEm": "IMC",
+      "headingTail": "とは。",
+      "p1Pre": "IMC(Integrated Marketing Communications)は分散したマーケティングチャネルを",
+      "p1Strong": "ひとつの一貫した流れに統合する",
+      "p1Tail": "戦略です。",
+      "p2": "かつては広告は広告、PRはPR、SNSはSNSと別々に動いていました。しかし今の消費者は、検索・SNS・店舗・広告で同じブランドに同時に出会います。一つのチャネルのメッセージが他とずれた瞬間、ブランドへの信頼は崩れます。",
+      "p3Pre": "BnFは8つの領域を",
+      "p3Strong": "ひとつのチーム、ひとつの戦略、ひとつのデータ",
+      "p3Tail": "で運営します。ブランディング会議で決まったトーンが、広告コピー、コンテンツ、インフルエンサーメッセージ、ポップアップイベントまで、そのまま流れていきます。",
+      "flowTitle": "統合される8つの領域"
+    },
+    "items": {
+      "branding": {
+        "cat": "Brand Strategy",
+        "titleMain": "ブランド",
+        "titleEm": "戦略",
+        "desc": "病院・ラグジュアリー・大手企業まで。ネーミング・BI/CIから市場で通用するアイデンティティまで。",
+        "tags": [
+          "ネーミング",
+          "BI/CI",
+          "ガイドライン"
+        ]
+      },
+      "performance": {
+        "cat": "Performance",
+        "titleMain": "パフォーマンス",
+        "titleEm": "広告",
+        "desc": "Google・Meta・LINE・Yahoo!。医療広告法の遵守とROAS最適化を同時に。",
+        "tags": [
+          "Google Ads",
+          "Meta",
+          "LINE"
+        ]
+      },
+      "content": {
+        "cat": "Content",
+        "titleMain": "映像・画像",
+        "titleEm": "コンテンツ",
+        "desc": "自社スタジオで撮影・リール・ショート動画まで一括制作。",
+        "tags": [
+          "スタジオ",
+          "編集",
+          "モーション"
+        ]
+      },
+      "social": {
+        "cat": "Social & Influencer",
+        "titleMain": "ソーシャル・",
+        "titleEm": "インフルエンサー",
+        "desc": "自社インフルエンサープール1,500名+。SNS・KOL・体験キャンペーンまで。",
+        "tags": [
+          "SNS",
+          "インフルエンサー",
+          "KOL"
+        ]
+      },
+      "pr": {
+        "cat": "PR & Events",
+        "titleMain": "PR・",
+        "titleEm": "イベント",
+        "desc": "メディアPR・学術活動・ラグジュアリー/大手ポップアップとイベント企画。",
+        "tags": [
+          "メディアPR",
+          "学術PR",
+          "ポップアップ"
+        ]
+      },
+      "global": {
+        "cat": "Global",
+        "titleMain": "グローバル",
+        "titleEm": "進出",
+        "desc": "9ヶ国進出コンサル。現地チャネル・ローカライズ・医療観光。",
+        "tags": [
+          "中国",
+          "日本",
+          "K-ビューティー"
+        ]
+      },
+      "mso": {
+        "cat": "MSO",
+        "titleMain": "MSO・",
+        "titleEm": "経営支援",
+        "desc": "病院経営コンサル+統合マーケティング。審査・法務まで一貫対応。",
+        "tags": [
+          "経営支援",
+          "審査代行",
+          "病院専用"
+        ]
+      },
+      "martech": {
+        "cat": "MarTech",
+        "titleMain": "マーテック・",
+        "titleEm": "自動化",
+        "desc": "CRM・MA・AI広告最適化。1:1パーソナライズマーケティング。",
+        "tags": [
+          "CRM",
+          "自動化",
+          "AI"
+        ]
+      }
+    }
+  },
+  "work": {
+    "headlineEm": "Selected",
+    "headlineTail": "Work.",
+    "viewAll": "すべての事例 →",
+    "filters": {
+      "all": "すべて",
+      "branding": "ブランディング",
+      "performance": "パフォーマンス",
+      "content": "コンテンツ",
+      "popup": "ポップアップ・イベント",
+      "global": "グローバル",
+      "mso": "MSO",
+      "luxury": "ラグジュアリー"
+    },
+    "countSuffix": "件の事例",
+    "lede": "メディカル・ビューティーブランドからラグジュアリー・大手企業のキャンペーンまで。200を超えるクライアントと共に作り上げた成果の一部です。"
+  },
+  "about": {
+    "label": "About BnF",
+    "pageTitleLine1": "広告を作る会社ではありません。",
+    "pageTitleLine2Em": "ブランド",
+    "pageTitleLine2Tail": "を築く会社です。",
+    "lede": "BnFは2019年にソウルで設立されたメディカル・ビューティーIMCマーケティンググループ。見えるすべての場所と、見えないすべての場所を共に設計します。",
+    "manifestoMainLine1": "良い広告は忘れられますが、",
+    "manifestoMainLine2Em": "良いブランド",
+    "manifestoMainLine2Tail": "は記憶されます。",
+    "manifestoQuiet": "2019年、メディカル・ビューティーマーケティングが単純な広告出稿に留まっていた頃、BnFは別の道を選びました。広告ではなくブランドを、売上ではなく持続可能なシステムを築くこと。それが200を超えるクライアントと共に歩んできた方法です。",
+    "bfMeaningHeading": "BnFの",
+    "bfMeaningHeadingEm": "意味",
+    "bfMeaningTail": "。",
+    "bfMeaningSub": "社名BnFは「Back & Front」の略。ブランドの表と裏、すべての接点を扱うという哲学です。",
+    "bfBackTitle": "BACK",
+    "bfBackSubLine1": "見えないところで",
+    "bfBackSubLine2Em": "動く",
+    "bfBackSubLine2Tail": "インフラ。",
+    "bfBackText": "データ・自動化・運用・審査・システム。顧客が出会わないところで黙々と動きます。マーケティングの8割は見えないところで決まります。",
+    "bfBackList": [
+      "CRM・DMP・MA運用",
+      "医療広告審査代行",
+      "法務・薬機法レビュー",
+      "データ分析・レポート",
+      "病院経営支援(MSO)"
+    ],
+    "bfFrontTitle": "FRONT",
+    "bfFrontSubLine1": "消費者が出会う",
+    "bfFrontSubLine2Em": "すべての",
+    "bfFrontSubLine2Tail": "表現。",
+    "bfFrontText": "広告・コンテンツ・キャンペーン・イベント・ポップアップ。ブランドの顔でありメッセージです。見える瞬間すべてをデザインし演出します。",
+    "bfFrontList": [
+      "ネーミング・BI/CI",
+      "パフォーマンス広告運用",
+      "映像・画像コンテンツ",
+      "SNS・インフルエンサーキャンペーン",
+      "ポップアップ・ローンチイベント"
+    ],
+    "pillarsLabel": "私たちのやり方",
+    "pillarsHeadingMain": "BnFが働く",
+    "pillarsHeadingEm": "4つの原則",
+    "pillarsHeadingTail": "。",
+    "pillarsSub": "200を超えるメディカル・ビューティークライアントと歩んできた方法。どの業界・どの規模のブランドでも同じく適用されます。",
+    "pillar1TitleMain": "メディカル・ビューティーに",
+    "pillar1TitleEm": "特化",
+    "pillar1Desc": "医療広告法・薬機法・景品表示法まで知るマーケティングチーム。200以上の病院・ビューティーブランドと歩んできた深い業界理解。医療広告審査通過率98%。",
+    "pillar2TitleMain": "分野の",
+    "pillar2TitleEm": "境界を超えた",
+    "pillar2TitleTail": "拡張",
+    "pillar2Desc": "病院・ビューティーから始まりましたが、ラグジュアリーブランドのポップアップ、大手企業のイベント企画、学術PRまで。良いマーケティングの原則はどこでも通用します。",
+    "pillar3TitleMain": "代理ではなく",
+    "pillar3TitleEm": "同伴",
+    "pillar3Desc": "ブランドの最初から最後まで共に築くパートナー。キャンペーンが終わっても関係は続き、売上を超える資産—ブランド認知・信頼・ロイヤリティ—を共に積み上げます。",
+    "pillar4TitleMain": "ローカルを超えて",
+    "pillar4TitleEm": "グローバル",
+    "pillar4TitleTail": "へ",
+    "pillar4Desc": "韓国で生まれたブランドを9ヶ国に届ける仕事。K-ビューティー・K-メディカルの次の章を共に書きます。日本・中国・東南アジア進出コンサル累計60件。",
+    "historyHeadingMain": "BnFの",
+    "historyHeadingEm": "歩み",
+    "historyHeadingTail": "。",
+    "historySub": "2019年ソウルで始まったBnFは、メディカル・ビューティーマーケティングの新しい基準を作ってきました。",
+    "timeline": [
+      {
+        "year": "2019",
+        "title": "BnF設立",
+        "desc": "ソウル江南でメディカル・ビューティー特化IMCグループとして発足。初年度クライアント12社獲得。"
+      },
+      {
+        "year": "2020",
+        "title": "自社コンテンツスタジオ開設",
+        "desc": "メディカル・ビューティー映像コンテンツ専用スタジオの運営開始。自社ディレクター・編集チームを構成。"
+      },
+      {
+        "year": "2021",
+        "title": "海外進出コンサル本格化",
+        "desc": "日本・中国進出クライアントの初事例。9言語ローカライズシステムを構築。"
+      },
+      {
+        "year": "2022",
+        "title": "MSO事業部新設",
+        "desc": "病院経営コンサル+統合マーケティングを結合したMSOソリューションをローンチ。医療広告審査自社レビューシステムを開発。"
+      },
+      {
+        "year": "2023",
+        "title": "分野拡張:ラグジュアリー・大手企業PR",
+        "desc": "メディカル・ビューティーからラグジュアリーポップアップ・大手企業イベント企画へ領域拡張。クライアント累計150社突破。"
+      },
+      {
+        "year": "2024",
+        "title": "マーテック・自動化本格導入",
+        "desc": "AIベースの広告最適化・CRM自動化システムを導入。クライアント200社突破。"
+      },
+      {
+        "year": "NOW",
+        "title": "次の章",
+        "desc": "韓国で検証されたマーケティングシステムをグローバルへ拡張中。K-ビューティー・K-メディカルの次のページを築きます。"
+      }
+    ],
+    "stat4Num": "1,500",
+    "stat4Em": "+",
+    "stat4Label": "自社インフルエンサープール",
+    "pillar1TitleTail": "",
+    "pillar3TitleTail": ""
+  },
+  "contact": {
+    "headlineLine1": "プロジェクトを",
+    "headlineEm": "共に",
+    "headlineTail": "進めます。",
+    "lede": "フォームをご記入いただくと、1営業日以内に担当者から直接ご連絡いたします。簡単なお問い合わせはメール・電話でも歓迎です。",
+    "infoHeadingMain": "連絡先",
+    "infoHeadingEm": "ご案内",
+    "infoSub": "すべてのお問い合わせはinfo@gbnf.krに統合されます。1営業日以内にご返信いたします。",
+    "labels": {
+      "company": "会社名",
+      "name": "お名前",
+      "position": "役職",
+      "phone": "電話番号",
+      "email": "メール",
+      "type": "お問い合わせ種類",
+      "budget": "予算規模",
+      "message": "お問い合わせ内容",
+      "email_label": "EMAIL",
+      "phone_label": "PHONE",
+      "location_label": "LOCATION",
+      "hours_label": "HOURS",
+      "careers_label": "CAREERS",
+      "address_label": "ADDRESS",
+      "transit_label": "TRANSIT",
+      "parking_label": "PARKING"
+    },
+    "placeholders": {
+      "company": "例:BnF Inc.",
+      "name": "山田太郎",
+      "position": "マーケティング部長",
+      "phone": "090-0000-0000",
+      "email": "hello@company.com",
+      "select": "お選びください",
+      "message": "進めたいプロジェクト、スケジュール、目標などをお気軽にご記入ください。"
+    },
+    "typeOptions": [
+      "ブランド戦略・アイデンティティ",
+      "パフォーマンス広告",
+      "映像・画像コンテンツ",
+      "ソーシャル・インフルエンサー",
+      "PR・イベント・ポップアップ",
+      "海外進出",
+      "MSO・病院経営支援",
+      "マーテック・自動化",
+      "全体統合 (IMC)",
+      "その他"
+    ],
+    "budgetOptions": [
+      "300万円以下",
+      "300万円 — 1,000万円",
+      "1,000万円 — 3,000万円",
+      "3,000万円 — 1億円",
+      "1億円以上",
+      "ご相談"
+    ],
+    "submit": "送信する →",
+    "submitNote": "ご提出いただいた情報はお問い合わせ対応のみに使用され、関連法令に基づき安全に管理されます。",
+    "successMessage": "メールアプリが起動します。送信を完了してください。本番環境では自動送信されます。",
+    "hoursValue": "平日 10:00 — 19:00 (KST)",
+    "addressValue": "ソウル特別市江南区論硯路160ギル25",
+    "transitValue": "7号線 鶴洞駅 徒歩6分 / 盆唐線 江南区庁駅 徒歩8分",
+    "parkingValue": "ビル地下駐車場2時間無料",
+    "studioHeading": "BnF",
+    "studioHeadingEm": "スタジオ",
+    "studioDesc": "ソウル江南区論硯路160ギル25にあるBnF本社。会議・撮影スタジオ・自社編集室まで同一空間にあります。",
+    "faqLabel": "FAQ",
+    "faqHeading": "よくある",
+    "faqHeadingEm": "ご質問",
+    "faqSub": "お問い合わせ前にFAQをご確認ください。",
+    "faq": [
+      {
+        "q": "最小プロジェクト規模はどれくらいですか?",
+        "a": "領域により異なります。単発キャンペーンは300万円から、統合IMCは月単位1,000万円から進めます。明確な目標があれば、規模に関わらずご相談に応じます。"
+      },
+      {
+        "q": "特定の領域だけ依頼できますか?",
+        "a": "可能です。8領域(ブランディング・パフォーマンス・コンテンツ・ソーシャル・PR・グローバル・MSO・マーテック)から必要なものだけ選んで進められます。ただしBnFの強みは統合運用なので、可能であれば2領域以上をまとめてご依頼いただくと最大の成果が出ます。"
+      },
+      {
+        "q": "医療広告審査はどう処理されますか?",
+        "a": "BnFは医療広告審査通過率98%です。広告コピー・画像・映像すべて審査ガイドラインに沿って一次レビュー後、正式申請を進めます。薬機法・景品表示法まで自社法務レビュー同伴。"
+      },
+      {
+        "q": "プロジェクト期間はどれくらいですか?",
+        "a": "領域により異なります。ブランディングフルプロジェクトは8〜12週、パフォーマンス広告は月単位運用、ポップアップ・イベントは4〜8週が一般的です。海外進出コンサルは3〜6ヶ月単位で進めます。"
+      },
+      {
+        "q": "メディカル・ビューティー以外の業界も可能ですか?",
+        "a": "可能です。メディカル・ビューティーが主力ですが、ラグジュアリー・大手企業イベント・F&Bなど多様な業界事例を保有しています。良いマーケティングの原則は業界を選びません。"
+      },
+      {
+        "q": "海外進出コンサルはどの国が可能ですか?",
+        "a": "現在、日本・中国本土・台湾・モンゴル・ベトナム・タイ・フィリピン・インドネシア・マレーシアの9ヶ国に対する進出コンサルが可能です。現地チャネル進入、9言語コンテンツローカライズ、医療観光パッケージ設計まで。"
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Let's build something great",
+    "headlineLine1Pre": "あなたの次の",
+    "headlineEm": "ブランド",
+    "headlineLine1Tail": "を",
+    "headlineLine2": "共に築きます。",
+    "btn": "プロジェクトのご相談 →"
+  },
+  "footer": {
+    "tagline": "メディカル・ビューティーIMCマーケティンググループ。見えるところから見えないところまで。",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "companyLinks": {
+      "about": "会社概要",
+      "work": "実績",
+      "contact": "お問い合わせ",
+      "careers": "採用情報"
+    },
+    "copyright": "© 2026 BnF Inc."
+  },
+  "common": {
+    "home": "HOME",
+    "next": "次へ",
+    "prev": "前へ",
+    "close": "閉じる",
+    "loading": "読み込み中...",
+    "viewMore": "詳しく見る →"
+  }
+}

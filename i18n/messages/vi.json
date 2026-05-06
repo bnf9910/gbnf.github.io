@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "siteName": "BnF",
+    "tagline": "Tập đoàn Marketing IMC Y tế · Làm đẹp",
+    "established": "EST. 2019 — SEOUL"
+  },
+  "nav": {
+    "work": "WORK",
+    "services": "SERVICES",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "cta": "Liên hệ dự án"
+  },
+  "hero": {
+    "scroll": "SCROLL ↓",
+    "tagline": "Tập đoàn Marketing IMC Y tế · Làm đẹp",
+    "replay": "↻ Replay"
+  },
+  "intro": {
+    "label": "Marketing tích hợp",
+    "headingLine1": "Từ những điều thấy được",
+    "headingLine2": "đến những điều không thấy,",
+    "headingEm": "tất cả",
+    "headingTail": " chúng tôi đều xây dựng.",
+    "p1Pre": "BnF không chỉ là agency quảng cáo. Chúng tôi cùng thiết kế ",
+    "p1Strong": "mặt trước và mặt sau của thương hiệu—mọi điểm tiếp xúc",
+    "p1Tail": ".",
+    "p2": "Từ quảng cáo, nội dung, chiến dịch khách hàng nhìn thấy đến dữ liệu, tự động hóa, hệ thống vận hành thầm lặng phía sau. Chúng tôi gắn kết marketing rời rạc thành một dòng chảy duy nhất, đồng hành cùng bệnh viện, thương hiệu của bạn để xây dựng.",
+    "stat1Num": "200",
+    "stat1Em": "+",
+    "stat1Label": "Khách hàng Y tế · Làm đẹp",
+    "stat2Num": "98",
+    "stat2Em": "%",
+    "stat2Label": "Tỷ lệ duyệt quảng cáo y tế",
+    "stat3Num": "9",
+    "stat3Em": " quốc gia",
+    "stat3Label": "Tư vấn mở rộng quốc tế"
+  },
+  "services": {
+    "headlineLine1": "Tám lĩnh vực,",
+    "headlineLine2": "một",
+    "headlineEm": "chiến lược",
+    "headlineTail": ".",
+    "desc": "Có thể chọn một dịch vụ hoặc cả hệ thống. Cả hai đều hoạt động.",
+    "viewMore": "Tìm hiểu thêm →",
+    "viewAll": "Xem tất cả",
+    "imcExplainer": {
+      "label": "Integrated Marketing Communications",
+      "headingLine1": "IMC là",
+      "headingLine2": "",
+      "headingEm": "gì",
+      "headingTail": "?",
+      "p1Pre": "IMC (Integrated Marketing Communications) là chiến lược hợp nhất các kênh marketing rời rạc thành ",
+      "p1Strong": "một dòng chảy nhất quán",
+      "p1Tail": ".",
+      "p2": "Trước đây quảng cáo riêng, PR riêng, social riêng. Nhưng người tiêu dùng ngày nay gặp một thương hiệu cùng lúc trên search, social, cửa hàng, quảng cáo. Khi thông điệp của một kênh mâu thuẫn với kênh khác, niềm tin vào thương hiệu sụp đổ.",
+      "p3Pre": "BnF vận hành cả 8 lĩnh vực với ",
+      "p3Strong": "một đội, một chiến lược, một bộ dữ liệu",
+      "p3Tail": ". Tone được quyết định trong cuộc họp branding chảy thẳng vào ad copy, content, thông điệp influencer, đạo diễn sự kiện.",
+      "flowTitle": "8 lĩnh vực được tích hợp"
+    },
+    "items": {
+      "branding": {
+        "cat": "Brand Strategy",
+        "titleMain": "Chiến lược ",
+        "titleEm": "thương hiệu",
+        "desc": "Bệnh viện, hàng xa xỉ, doanh nghiệp lớn. Từ đặt tên, BI/CI đến bản sắc thị trường công nhận.",
+        "tags": [
+          "Đặt tên",
+          "BI/CI",
+          "Hướng dẫn"
+        ]
+      },
+      "performance": {
+        "cat": "Performance",
+        "titleMain": "Quảng cáo ",
+        "titleEm": "Performance",
+        "desc": "Google, Meta, Naver, Kakao. Tuân thủ luật quảng cáo y tế và ROAS đồng thời.",
+        "tags": [
+          "Google Ads",
+          "Meta",
+          "Naver"
+        ]
+      },
+      "content": {
+        "cat": "Content",
+        "titleMain": "Nội dung ",
+        "titleEm": "video & hình",
+        "desc": "Studio nội bộ sản xuất photoshoot, Reels, Shorts trong một quy trình.",
+        "tags": [
+          "Studio",
+          "Edit",
+          "Motion"
+        ]
+      },
+      "social": {
+        "cat": "Social & Influencer",
+        "titleMain": "Social & ",
+        "titleEm": "Influencer",
+        "desc": "Đội influencer riêng 1,500+. Vận hành kênh, KOL, chương trình đại sứ.",
+        "tags": [
+          "SNS",
+          "Influencer",
+          "KOL"
+        ]
+      },
+      "pr": {
+        "cat": "PR & Events",
+        "titleMain": "PR & ",
+        "titleEm": "Sự kiện",
+        "desc": "Quan hệ truyền thông, PR học thuật, pop-up xa xỉ và sản xuất sự kiện doanh nghiệp.",
+        "tags": [
+          "Media PR",
+          "Academic PR",
+          "Pop-up"
+        ]
+      },
+      "global": {
+        "cat": "Global",
+        "titleMain": "Mở rộng ",
+        "titleEm": "quốc tế",
+        "desc": "Tư vấn mở rộng tại 9 thị trường. Kênh địa phương, bản địa hóa, du lịch y tế.",
+        "tags": [
+          "Trung Quốc",
+          "Nhật Bản",
+          "K-Beauty"
+        ]
+      },
+      "mso": {
+        "cat": "MSO",
+        "titleMain": "MSO & ",
+        "titleEm": "vận hành",
+        "desc": "Tư vấn quản lý bệnh viện + marketing tích hợp. Bao gồm tuân thủ và pháp lý.",
+        "tags": [
+          "Vận hành",
+          "Tuân thủ",
+          "Chỉ bệnh viện"
+        ]
+      },
+      "martech": {
+        "cat": "MarTech",
+        "titleMain": "MarTech & ",
+        "titleEm": "tự động hóa",
+        "desc": "CRM, MA, AI tối ưu quảng cáo. Marketing cá nhân hóa 1:1.",
+        "tags": [
+          "CRM",
+          "Tự động hóa",
+          "AI"
+        ]
+      }
+    }
+  },
+  "work": {
+    "headlineEm": "Selected",
+    "headlineTail": "Work.",
+    "viewAll": "Xem tất cả case →",
+    "filters": {
+      "all": "Tất cả",
+      "branding": "Thương hiệu",
+      "performance": "Performance",
+      "content": "Content",
+      "popup": "Pop-up",
+      "global": "Quốc tế",
+      "mso": "MSO",
+      "luxury": "Xa xỉ"
+    },
+    "countSuffix": " case",
+    "lede": "Từ thương hiệu y tế và làm đẹp đến chiến dịch xa xỉ và doanh nghiệp lớn. Tuyển chọn từ hơn 200 khách hàng."
+  },
+  "about": {
+    "label": "About BnF",
+    "pageTitleLine1": "Chúng tôi không làm quảng cáo.",
+    "pageTitleLine2Em": "Chúng tôi xây thương hiệu",
+    "pageTitleLine2Tail": ".",
+    "lede": "BnF là tập đoàn marketing IMC y tế và làm đẹp tại Seoul, thành lập năm 2019. Chúng tôi thiết kế mọi phần thấy được và không thấy được của thương hiệu.",
+    "manifestoMainLine1": "Quảng cáo hay bị quên,",
+    "manifestoMainLine2Em": "thương hiệu hay",
+    "manifestoMainLine2Tail": " được nhớ.",
+    "manifestoQuiet": "Năm 2019, khi marketing y tế và làm đẹp còn mắc kẹt trong việc mua quảng cáo đơn kênh, BnF chọn con đường khác. Xây thương hiệu—không chỉ chạy quảng cáo. Xây hệ thống bền vững—không chỉ đuổi theo doanh thu. Đó là cách chúng tôi làm việc với hơn 200 khách hàng.",
+    "bfMeaningHeading": "Ý nghĩa của ",
+    "bfMeaningHeadingEm": "BnF",
+    "bfMeaningTail": ".",
+    "bfMeaningSub": "BnF viết tắt của Back & Front—triết lý thiết kế mọi điểm tiếp xúc của thương hiệu, cả thấy được lẫn không thấy.",
+    "bfBackTitle": "BACK",
+    "bfBackSubLine1": "Hạ tầng",
+    "bfBackSubLine2Em": "vận hành",
+    "bfBackSubLine2Tail": " thầm lặng.",
+    "bfBackText": "Dữ liệu, tự động hóa, vận hành, tuân thủ, hệ thống. Hoạt động lặng lẽ ở nơi khách hàng không thấy. Tám mươi phần trăm marketing được quyết định ở những nơi khách hàng không bao giờ nhìn vào.",
+    "bfBackList": [
+      "Vận hành CRM · DMP · MA",
+      "Tuân thủ quảng cáo y tế",
+      "Rà soát pháp lý & dược",
+      "Phân tích & báo cáo dữ liệu",
+      "Vận hành bệnh viện (MSO)"
+    ],
+    "bfFrontTitle": "FRONT",
+    "bfFrontSubLine1": "Mọi biểu hiện",
+    "bfFrontSubLine2Em": "người tiêu dùng",
+    "bfFrontSubLine2Tail": " gặp.",
+    "bfFrontText": "Quảng cáo, content, chiến dịch, sự kiện, pop-up. Khuôn mặt và tiếng nói của thương hiệu. Chúng tôi thiết kế và đạo diễn mọi khoảnh khắc thấy được.",
+    "bfFrontList": [
+      "Đặt tên · BI/CI",
+      "Quảng cáo Performance",
+      "Nội dung video & hình",
+      "Chiến dịch Social & Influencer",
+      "Sự kiện Pop-up & ra mắt"
+    ],
+    "pillarsLabel": "Cách của chúng tôi",
+    "pillarsHeadingMain": "Bốn ",
+    "pillarsHeadingEm": "nguyên tắc",
+    "pillarsHeadingTail": " làm việc.",
+    "pillarsSub": "Cách chúng tôi đã làm việc với hơn 200 khách hàng y tế và làm đẹp. Áp dụng cho mọi ngành, mọi quy mô thương hiệu.",
+    "pillar1TitleMain": "Chuyên về ",
+    "pillar1TitleEm": "Y tế & Làm đẹp",
+    "pillar1Desc": "Đội marketing hiểu luật quảng cáo y tế, quy định dược phẩm và luật ghi nhãn. Hiểu biết ngành sâu sắc từ làm việc với 200+ bệnh viện và thương hiệu làm đẹp. Tỷ lệ duyệt quảng cáo y tế 98%.",
+    "pillar2TitleMain": "Không có ",
+    "pillar2TitleEm": "ranh giới",
+    "pillar2TitleTail": " danh mục",
+    "pillar2Desc": "Bắt đầu ở y tế và làm đẹp nhưng mở rộng sang pop-up xa xỉ, sản xuất sự kiện doanh nghiệp và PR học thuật. Nguyên tắc marketing tốt áp dụng được ở mọi nơi.",
+    "pillar3TitleMain": "Đối tác, không phải ",
+    "pillar3TitleEm": "agency",
+    "pillar3Desc": "Người xây dựng đi cùng thương hiệu từ đầu đến cuối. Mối quan hệ tiếp tục lâu sau khi chiến dịch kết thúc, tích lũy tài sản vượt qua doanh thu—nhận biết thương hiệu, niềm tin, lòng trung thành.",
+    "pillar4TitleMain": "Từ địa phương đến ",
+    "pillar4TitleEm": "toàn cầu",
+    "pillar4TitleTail": "",
+    "pillar4Desc": "Đưa thương hiệu sinh ở Hàn Quốc đến chín thị trường toàn cầu. Viết chương tiếp theo của K-Beauty và K-Medical. 60+ dự án tư vấn mở rộng tại Nhật Bản, Trung Quốc và Đông Nam Á.",
+    "historyHeadingMain": "Hành trình",
+    "historyHeadingEm": " của BnF",
+    "historyHeadingTail": ".",
+    "historySub": "Thành lập tại Seoul năm 2019, BnF đã thiết lập tiêu chuẩn mới cho marketing y tế và làm đẹp.",
+    "timeline": [
+      {
+        "year": "2019",
+        "title": "BnF thành lập",
+        "desc": "Ra mắt tại Gangnam Seoul với tư cách tập đoàn IMC y tế và làm đẹp. Đảm bảo 12 khách hàng trong năm đầu."
+      },
+      {
+        "year": "2020",
+        "title": "Mở studio nội bộ",
+        "desc": "Studio chuyên sản xuất nội dung video y tế và làm đẹp. Xây dựng đội đạo diễn và biên tập nội bộ."
+      },
+      {
+        "year": "2021",
+        "title": "Bắt đầu mở rộng quốc tế",
+        "desc": "Khách hàng mở rộng đầu tiên sang Nhật Bản và Trung Quốc. Thiết lập hệ thống bản địa hóa 9 ngôn ngữ."
+      },
+      {
+        "year": "2022",
+        "title": "Ra mắt mảng MSO",
+        "desc": "Giải pháp MSO kết hợp tư vấn quản lý bệnh viện với marketing tích hợp. Phát triển hệ thống rà soát quảng cáo y tế nội bộ."
+      },
+      {
+        "year": "2023",
+        "title": "Vượt qua y tế: Xa xỉ & Doanh nghiệp",
+        "desc": "Mở rộng từ y tế và làm đẹp sang pop-up xa xỉ và sản xuất sự kiện doanh nghiệp. Vượt 150 khách hàng tích lũy."
+      },
+      {
+        "year": "2024",
+        "title": "MarTech & Tự động hóa",
+        "desc": "Triển khai tối ưu quảng cáo bằng AI và hệ thống tự động hóa CRM. Vượt 200 khách hàng."
+      },
+      {
+        "year": "NOW",
+        "title": "Chương tiếp theo",
+        "desc": "Đang mở rộng hệ thống marketing đã được kiểm chứng tại Hàn Quốc ra toàn cầu. Viết trang tiếp theo của K-Beauty và K-Medical."
+      }
+    ],
+    "stat4Num": "1,500",
+    "stat4Em": "+",
+    "stat4Label": "Đội Influencer riêng",
+    "pillar1TitleTail": "",
+    "pillar3TitleTail": ""
+  },
+  "contact": {
+    "headlineLine1": "Cùng",
+    "headlineEm": "xây dựng",
+    "headlineTail": ".",
+    "lede": "Điền form và một thành viên đội sẽ liên hệ trong vòng một ngày làm việc. Câu hỏi nhanh, email hoặc điện thoại đều được.",
+    "infoHeadingMain": "Thông tin",
+    "infoHeadingEm": "liên hệ",
+    "infoSub": "Mọi yêu cầu đều được chuyển đến info@gbnf.kr. Chúng tôi phản hồi trong một ngày làm việc.",
+    "labels": {
+      "company": "Công ty",
+      "name": "Tên",
+      "position": "Chức vụ",
+      "phone": "Điện thoại",
+      "email": "Email",
+      "type": "Loại yêu cầu",
+      "budget": "Ngân sách",
+      "message": "Tin nhắn",
+      "email_label": "EMAIL",
+      "phone_label": "PHONE",
+      "location_label": "LOCATION",
+      "hours_label": "HOURS",
+      "careers_label": "CAREERS",
+      "address_label": "ADDRESS",
+      "transit_label": "TRANSIT",
+      "parking_label": "PARKING"
+    },
+    "placeholders": {
+      "company": "VD: BnF Inc.",
+      "name": "Tên của bạn",
+      "position": "Marketing Lead",
+      "phone": "+84 9XX-XXX-XXX",
+      "email": "hello@company.com",
+      "select": "Vui lòng chọn",
+      "message": "Hãy cho chúng tôi biết về dự án, thời gian và mục tiêu của bạn."
+    },
+    "typeOptions": [
+      "Chiến lược & nhận diện thương hiệu",
+      "Quảng cáo Performance",
+      "Nội dung video & hình",
+      "Social & Influencer",
+      "PR · Sự kiện · Pop-up",
+      "Mở rộng quốc tế",
+      "MSO · Vận hành bệnh viện",
+      "MarTech · Tự động hóa",
+      "Tích hợp toàn diện (IMC)",
+      "Khác"
+    ],
+    "budgetOptions": [
+      "Dưới 600 triệu VND",
+      "600 triệu — 2 tỷ",
+      "2 tỷ — 6 tỷ",
+      "6 tỷ — 20 tỷ",
+      "20 tỷ trở lên",
+      "Thỏa thuận"
+    ],
+    "submit": "Gửi yêu cầu →",
+    "submitNote": "Thông tin gửi chỉ dùng cho phản hồi yêu cầu và được quản lý theo luật áp dụng.",
+    "successMessage": "Ứng dụng email sẽ mở. Vui lòng hoàn tất gửi. Trong production sẽ tự động.",
+    "hoursValue": "T2–T6 10:00 — 19:00 (KST)",
+    "addressValue": "25, Nonhyeon-ro 160-gil, Gangnam-gu, Seoul",
+    "transitValue": "Đi bộ 6 phút từ Hakdong Station (Line 7) / 8 phút từ Gangnam-gu Office Station (Bundang Line)",
+    "parkingValue": "2 giờ đỗ xe miễn phí dưới hầm tòa nhà",
+    "studioHeading": "BnF",
+    "studioHeadingEm": " Studio",
+    "studioDesc": "Trụ sở BnF tại 25 Nonhyeon-ro 160-gil, Gangnam Seoul. Phòng họp, studio chụp ảnh và phòng biên tập, tất cả trong một không gian.",
+    "faqLabel": "FAQ",
+    "faqHeading": "Câu hỏi ",
+    "faqHeadingEm": "thường gặp",
+    "faqSub": "Kiểm tra FAQ của chúng tôi trước khi liên hệ.",
+    "faq": [
+      {
+        "q": "Quy mô dự án tối thiểu là bao nhiêu?",
+        "a": "Tùy dịch vụ. Chiến dịch một lần bắt đầu từ ~600 triệu VND. IMC tích hợp bắt đầu từ ~2 tỷ/tháng. Với mục tiêu rõ ràng, chúng tôi tư vấn bất kể quy mô."
+      },
+      {
+        "q": "Có thể chỉ thuê một mảng dịch vụ không?",
+        "a": "Có. Bạn có thể chọn bất kỳ trong 8 lĩnh vực (thương hiệu, performance, content, social, PR, global, MSO, MarTech). Tuy nhiên, sức mạnh của BnF là vận hành tích hợp—thuê 2+ mảng thường mang lại kết quả tốt nhất."
+      },
+      {
+        "q": "Bạn xử lý tuân thủ quảng cáo y tế như thế nào?",
+        "a": "BnF duy trì tỷ lệ duyệt quảng cáo y tế 98%. Mọi copy, hình ảnh và video đều qua rà soát nội bộ theo hướng dẫn tuân thủ trước khi nộp chính thức. Bao gồm rà soát luật dược phẩm và ghi nhãn."
+      },
+      {
+        "q": "Một dự án thường mất bao lâu?",
+        "a": "Tùy dịch vụ. Dự án thương hiệu đầy đủ 8–12 tuần. Quảng cáo Performance hoạt động hàng tháng. Pop-up và sự kiện chạy 4–8 tuần. Tư vấn mở rộng quốc tế 3–6 tháng."
+      },
+      {
+        "q": "Bạn có thể làm ngoài y tế và làm đẹp không?",
+        "a": "Có. Y tế và làm đẹp là cốt lõi nhưng chúng tôi có case trong xa xỉ, sự kiện doanh nghiệp, F&B và hơn nữa. Nguyên tắc marketing tốt áp dụng cho mọi ngành."
+      },
+      {
+        "q": "Bạn cover thị trường nào cho mở rộng quốc tế?",
+        "a": "Nhật Bản, Trung Quốc đại lục, Đài Loan, Mông Cổ, Việt Nam, Thái Lan, Philippines, Indonesia, Malaysia—9 thị trường. Bao gồm thâm nhập kênh địa phương, bản địa hóa 9 ngôn ngữ và gói du lịch y tế."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Let's build something great",
+    "headlineLine1Pre": "Xây ",
+    "headlineEm": "thương hiệu",
+    "headlineLine1Tail": "",
+    "headlineLine2": " tiếp theo cùng chúng tôi.",
+    "btn": "Liên hệ dự án →"
+  },
+  "footer": {
+    "tagline": "Tập đoàn Marketing IMC Y tế · Làm đẹp. Từ điều thấy được đến điều không thấy.",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "companyLinks": {
+      "about": "Về chúng tôi",
+      "work": "Tác phẩm",
+      "contact": "Liên hệ",
+      "careers": "Tuyển dụng"
+    },
+    "copyright": "© 2026 BnF Inc."
+  },
+  "common": {
+    "home": "HOME",
+    "next": "Tiếp",
+    "prev": "Trước",
+    "close": "Đóng",
+    "loading": "Đang tải...",
+    "viewMore": "Tìm hiểu thêm →"
+  }
+}

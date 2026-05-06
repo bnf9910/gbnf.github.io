@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "siteName": "BnF",
+    "tagline": "医美IMC营销集团",
+    "established": "EST. 2019 — SEOUL"
+  },
+  "nav": {
+    "work": "WORK",
+    "services": "SERVICES",
+    "about": "ABOUT US",
+    "contact": "CONTACT",
+    "cta": "项目咨询"
+  },
+  "hero": {
+    "scroll": "SCROLL ↓",
+    "tagline": "医美IMC营销集团",
+    "replay": "↻ Replay"
+  },
+  "intro": {
+    "label": "整合营销",
+    "headingLine1": "从可见之处",
+    "headingLine2": "到看不见的地方,",
+    "headingEm": "全部",
+    "headingTail": "由我们构建。",
+    "p1Pre": "BnF 不只是广告公司。我们与您共同设计",
+    "p1Strong": "品牌的前后端,所有触点",
+    "p1Tail": "。",
+    "p2": "从消费者接触到的广告、内容、活动,到背后默默运行的数据、自动化、运营系统。我们将碎片化的营销整合为一体,作为医院与品牌的伙伴共同建造。",
+    "stat1Num": "200",
+    "stat1Em": "+",
+    "stat1Label": "医美客户",
+    "stat2Num": "98",
+    "stat2Em": "%",
+    "stat2Label": "医疗广告审查通过率",
+    "stat3Num": "9",
+    "stat3Em": "国",
+    "stat3Label": "全球扩展咨询"
+  },
+  "services": {
+    "headlineLine1": "8个营销领域,",
+    "headlineLine2": "一个",
+    "headlineEm": "战略",
+    "headlineTail": "。",
+    "desc": "可单独委托所需领域,也可委托全部。",
+    "viewMore": "了解更多 →",
+    "viewAll": "查看全部",
+    "imcExplainer": {
+      "label": "整合营销传播",
+      "headingLine1": "整合营销传播,",
+      "headingLine2": "",
+      "headingEm": "IMC",
+      "headingTail": "是什么。",
+      "p1Pre": "IMC(整合营销传播)是将分散的营销渠道",
+      "p1Strong": "整合为一致流程",
+      "p1Tail": "的战略。",
+      "p2": "过去广告归广告、PR归PR、社交归社交,各自分开运作。但今天的消费者会同时在搜索、社交、门店、广告中遇到同一个品牌。一旦某个渠道的信息与其他渠道脱节,品牌信任就会崩塌。",
+      "p3Pre": "BnF 用",
+      "p3Strong": "一个团队、一个战略、一组数据",
+      "p3Tail": "运营全部 8 个领域。品牌会议中确定的调性,会原样流入广告文案、内容、网红信息、快闪活动呈现中。",
+      "flowTitle": "整合的 8 个领域"
+    },
+    "items": {
+      "branding": {
+        "cat": "Brand Strategy",
+        "titleMain": "品牌",
+        "titleEm": "战略",
+        "desc": "医院、奢侈品、大企业。从命名、BI/CI 到市场认可的身份。",
+        "tags": [
+          "命名",
+          "BI/CI",
+          "规范"
+        ]
+      },
+      "performance": {
+        "cat": "Performance",
+        "titleMain": "效果",
+        "titleEm": "广告",
+        "desc": "Google、Meta、Naver、Kakao。同时兼顾医疗广告法与 ROAS。",
+        "tags": [
+          "Google Ads",
+          "Meta",
+          "Naver"
+        ]
+      },
+      "content": {
+        "cat": "Content",
+        "titleMain": "影像·图像",
+        "titleEm": "内容",
+        "desc": "自有摄影棚一站式制作大片、Reels、短视频。",
+        "tags": [
+          "摄影棚",
+          "剪辑",
+          "动效"
+        ]
+      },
+      "social": {
+        "cat": "Social & Influencer",
+        "titleMain": "社交·",
+        "titleEm": "网红",
+        "desc": "自有网红资源 1,500+。SNS、KOL、体验团一应俱全。",
+        "tags": [
+          "SNS",
+          "网红",
+          "KOL"
+        ]
+      },
+      "pr": {
+        "cat": "PR & Events",
+        "titleMain": "PR·",
+        "titleEm": "活动",
+        "desc": "媒体 PR、学术活动、奢侈品/大企业快闪与活动策划。",
+        "tags": [
+          "媒体 PR",
+          "学术 PR",
+          "快闪·活动"
+        ]
+      },
+      "global": {
+        "cat": "Global",
+        "titleMain": "全球",
+        "titleEm": "扩展",
+        "desc": "9 国扩展咨询。本地渠道、本地化、医疗旅游。",
+        "tags": [
+          "中国",
+          "日本",
+          "K-美妆"
+        ]
+      },
+      "mso": {
+        "cat": "MSO",
+        "titleMain": "MSO·",
+        "titleEm": "经营支持",
+        "desc": "医院经营咨询+整合营销。审查、法务一体化。",
+        "tags": [
+          "经营支持",
+          "审查代办",
+          "医院专属"
+        ]
+      },
+      "martech": {
+        "cat": "MarTech",
+        "titleMain": "营销技术·",
+        "titleEm": "自动化",
+        "desc": "CRM、MA、AI 广告优化。一对一个性化营销。",
+        "tags": [
+          "CRM",
+          "自动化",
+          "AI"
+        ]
+      }
+    }
+  },
+  "work": {
+    "headlineEm": "Selected",
+    "headlineTail": "Work.",
+    "viewAll": "查看全部案例 →",
+    "filters": {
+      "all": "全部",
+      "branding": "品牌",
+      "performance": "效果",
+      "content": "内容",
+      "popup": "快闪·活动",
+      "global": "全球",
+      "mso": "MSO",
+      "luxury": "奢侈品"
+    },
+    "countSuffix": " 个案例",
+    "lede": "从医美品牌到奢侈品与大企业活动,与超过 200 家客户共同打造的部分作品。"
+  },
+  "about": {
+    "label": "About BnF",
+    "pageTitleLine1": "我们不是做广告的公司,",
+    "pageTitleLine2Em": "我们是建造品牌",
+    "pageTitleLine2Tail": "的公司。",
+    "lede": "BnF 是 2019 年于首尔创立的医美 IMC 营销集团。设计品牌可见与不可见的所有部分。",
+    "manifestoMainLine1": "好广告会被遗忘,",
+    "manifestoMainLine2Em": "好品牌",
+    "manifestoMainLine2Tail": "会被记住。",
+    "manifestoQuiet": "2019 年,当医美营销还停留在简单的广告投放时,BnF 选择了另一条路。建造品牌而非广告,建造可持续系统而非追逐销售。这是与超过 200 家客户共同走过的方式。",
+    "bfMeaningHeading": "BnF 的",
+    "bfMeaningHeadingEm": "含义",
+    "bfMeaningTail": "。",
+    "bfMeaningSub": "公司名 BnF 是 'Back & Front' 的缩写。涵盖品牌前后所有触点的哲学。",
+    "bfBackTitle": "BACK",
+    "bfBackSubLine1": "在看不见的地方",
+    "bfBackSubLine2Em": "运行的",
+    "bfBackSubLine2Tail": "基础设施。",
+    "bfBackText": "数据、自动化、运营、审查、系统。在客户接触不到的地方默默运行。营销的八成在看不见的地方决定。",
+    "bfBackList": [
+      "CRM·DMP·MA 运营",
+      "医疗广告审查代办",
+      "法务·药事法审查",
+      "数据分析·报告",
+      "医院经营支持 (MSO)"
+    ],
+    "bfFrontTitle": "FRONT",
+    "bfFrontSubLine1": "消费者接触的",
+    "bfFrontSubLine2Em": "所有",
+    "bfFrontSubLine2Tail": "表现物。",
+    "bfFrontText": "广告、内容、活动、事件、快闪。是品牌的面孔与声音。设计与导演每一个可见瞬间。",
+    "bfFrontList": [
+      "命名·BI/CI",
+      "效果广告运营",
+      "影像·图像内容",
+      "SNS·网红活动",
+      "快闪·上市活动"
+    ],
+    "pillarsLabel": "我们的方式",
+    "pillarsHeadingMain": "BnF 工作的",
+    "pillarsHeadingEm": "4 项原则",
+    "pillarsHeadingTail": "。",
+    "pillarsSub": "与超过 200 家医美客户共同走过的方式。无论行业、无论品牌规模都同样适用。",
+    "pillar1TitleMain": "专注于",
+    "pillar1TitleEm": "医美",
+    "pillar1Desc": "懂医疗广告法、药事法、广告标识法的营销团队。与 200 多家医院与美妆品牌合作积累的深度行业理解。医疗广告审查通过率 98%。",
+    "pillar2TitleMain": "无",
+    "pillar2TitleEm": "领域边界",
+    "pillar2TitleTail": "的扩展",
+    "pillar2Desc": "从医美起步,扩展到奢侈品快闪、大企业活动策划、学术 PR。好营销的原则在哪里都通用。",
+    "pillar3TitleMain": "不是代理,而是",
+    "pillar3TitleEm": "同伴",
+    "pillar3Desc": "从品牌起点到终点同行的伙伴。活动结束后关系仍延续,共同积累超越销售的资产——品牌认知、信任、忠诚度。",
+    "pillar4TitleMain": "从本地到",
+    "pillar4TitleEm": "全球",
+    "pillar4TitleTail": "",
+    "pillar4Desc": "把韩国诞生的品牌带到 9 个国家。共同书写 K-美妆与 K-医美的下一章。日本、中国、东南亚扩展咨询累计 60 件。",
+    "historyHeadingMain": "BnF 的",
+    "historyHeadingEm": "历程",
+    "historyHeadingTail": "。",
+    "historySub": "2019 年于首尔创立,BnF 一直在创造医美营销的新标准。",
+    "timeline": [
+      {
+        "year": "2019",
+        "title": "BnF 创立",
+        "desc": "于首尔江南创立,成为医美专属 IMC 集团。第一年获得 12 家客户。"
+      },
+      {
+        "year": "2020",
+        "title": "自有内容工作室开业",
+        "desc": "医美影像内容专属工作室开始运营。组建自有导演与剪辑团队。"
+      },
+      {
+        "year": "2021",
+        "title": "全球扩展咨询正式启动",
+        "desc": "首批日本、中国扩展客户案例。建立 9 语言本地化系统。"
+      },
+      {
+        "year": "2022",
+        "title": "MSO 事业部新设",
+        "desc": "推出结合医院经营咨询与整合营销的 MSO 解决方案。开发医疗广告审查自审系统。"
+      },
+      {
+        "year": "2023",
+        "title": "领域扩展:奢侈品·大企业 PR",
+        "desc": "从医美扩展至奢侈品快闪、大企业活动策划。客户累计突破 150 家。"
+      },
+      {
+        "year": "2024",
+        "title": "营销技术·自动化全面引入",
+        "desc": "引入 AI 驱动的广告优化与 CRM 自动化系统。客户突破 200 家。"
+      },
+      {
+        "year": "NOW",
+        "title": "下一章",
+        "desc": "正在将韩国验证的营销系统扩展至全球。共同书写 K-美妆与 K-医美的下一页。"
+      }
+    ],
+    "stat4Num": "1,500",
+    "stat4Em": "+",
+    "stat4Label": "自有网红资源",
+    "pillar1TitleTail": "",
+    "pillar3TitleTail": ""
+  },
+  "contact": {
+    "headlineLine1": "项目",
+    "headlineEm": "共同",
+    "headlineTail": "推进。",
+    "lede": "请填写表单,负责人将于 1 个工作日内直接联系您。简单咨询亦可通过邮件或电话进行。",
+    "infoHeadingMain": "联系方式",
+    "infoHeadingEm": "信息",
+    "infoSub": "所有咨询统一接收至 info@gbnf.kr。1 个工作日内回复。",
+    "labels": {
+      "company": "公司名",
+      "name": "姓名",
+      "position": "职位",
+      "phone": "联系电话",
+      "email": "邮箱",
+      "type": "咨询类型",
+      "budget": "预算规模",
+      "message": "咨询内容",
+      "email_label": "EMAIL",
+      "phone_label": "PHONE",
+      "location_label": "LOCATION",
+      "hours_label": "HOURS",
+      "careers_label": "CAREERS",
+      "address_label": "ADDRESS",
+      "transit_label": "TRANSIT",
+      "parking_label": "PARKING"
+    },
+    "placeholders": {
+      "company": "例:BnF Inc.",
+      "name": "张三",
+      "position": "营销经理",
+      "phone": "+86 138-0000-0000",
+      "email": "hello@company.com",
+      "select": "请选择",
+      "message": "请自由填写您的项目、时间、目标等信息。"
+    },
+    "typeOptions": [
+      "品牌战略·身份",
+      "效果广告",
+      "影像·图像内容",
+      "社交·网红",
+      "PR·活动·快闪",
+      "全球扩展",
+      "MSO·医院经营支持",
+      "营销技术·自动化",
+      "全面整合 (IMC)",
+      "其他"
+    ],
+    "budgetOptions": [
+      "15 万人民币以下",
+      "15 万 — 50 万",
+      "50 万 — 150 万",
+      "150 万 — 500 万",
+      "500 万以上",
+      "面议"
+    ],
+    "submit": "发送咨询 →",
+    "submitNote": "您提交的信息仅用于咨询响应,并依据相关法律安全管理。",
+    "successMessage": "邮件应用即将打开。请完成发送。正式部署后将自动发送。",
+    "hoursValue": "工作日 10:00 — 19:00 (KST)",
+    "addressValue": "首尔特别市江南区论岘路 160 街 25 号",
+    "transitValue": "7 号线鹤洞站步行 6 分钟 / 盆唐线江南区厅站步行 8 分钟",
+    "parkingValue": "大楼地下停车场免费 2 小时",
+    "studioHeading": "BnF",
+    "studioHeadingEm": "工作室",
+    "studioDesc": "位于首尔江南区论岘路 160 街 25 号的 BnF 总部。会议、摄影棚、自有剪辑室皆在同一空间。",
+    "faqLabel": "FAQ",
+    "faqHeading": "常见",
+    "faqHeadingEm": "问题",
+    "faqSub": "咨询前请查看常见问题。",
+    "faq": [
+      {
+        "q": "最低项目规模是多少?",
+        "a": "依领域而异。单次活动起价 15 万人民币,整合 IMC 起价月度 50 万人民币。如有明确目标,无论规模均可咨询。"
+      },
+      {
+        "q": "可以只委托单一领域吗?",
+        "a": "可以。可从 8 个领域(品牌、效果、内容、社交、PR、全球、MSO、营销技术)中选择所需项目。但 BnF 的优势在于整合运营,委托 2 个以上领域时通常能获得最佳成果。"
+      },
+      {
+        "q": "医疗广告审查如何处理?",
+        "a": "BnF 医疗广告审查通过率 98%。所有广告文案、图像、影像均按审查指引一审后再正式申报。包含药事法、广告标识法的自有法务审查。"
+      },
+      {
+        "q": "项目周期一般多久?",
+        "a": "依领域而异。完整品牌项目 8–12 周,效果广告按月运营,快闪与活动 4–8 周。全球扩展咨询以 3–6 个月为单位。"
+      },
+      {
+        "q": "医美以外的行业可以吗?",
+        "a": "可以。医美为主力,但拥有奢侈品、企业活动、餐饮等多种行业案例。好营销的原则不分行业。"
+      },
+      {
+        "q": "海外扩展咨询覆盖哪些国家?",
+        "a": "目前可服务于日本、中国大陆、台湾、蒙古、越南、泰国、菲律宾、印尼、马来西亚 9 个国家。涵盖本地渠道入驻、9 语言内容本地化、医疗旅游套餐设计。"
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Let's build something great",
+    "headlineLine1Pre": "您的下一个",
+    "headlineEm": "品牌",
+    "headlineLine1Tail": ",",
+    "headlineLine2": "由我们共同建造。",
+    "btn": "项目咨询 →"
+  },
+  "footer": {
+    "tagline": "医美 IMC 营销集团。从可见之处到看不见的地方。",
+    "servicesTitle": "Services",
+    "companyTitle": "Company",
+    "contactTitle": "Contact",
+    "companyLinks": {
+      "about": "关于我们",
+      "work": "案例",
+      "contact": "联系我们",
+      "careers": "招聘"
+    },
+    "copyright": "© 2026 BnF Inc."
+  },
+  "common": {
+    "home": "HOME",
+    "next": "下一页",
+    "prev": "上一页",
+    "close": "关闭",
+    "loading": "加载中...",
+    "viewMore": "了解更多 →"
+  }
+}

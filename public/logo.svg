@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="200" height="80">
+  <style>
+    .logo-text { font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-weight: 500; }
+  </style>
+  <rect width="200" height="80" fill="#0a0a0a"/>
+  <text x="100" y="55" text-anchor="middle" class="logo-text" font-size="48" fill="#f5f1e8">
+    B<tspan font-size="20" baseline-shift="super" opacity="0.6">&amp;</tspan>F
+  </text>
+</svg>

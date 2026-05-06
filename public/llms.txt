@@ -1,0 +1,56 @@
+# B&F (BnF)
+
+> Hyper-automated MarTech & Brand Solutions Group specializing in medical and beauty businesses. We combine cinematic branding with hyper-automation IT infrastructure to design the complete conversion flywheel — from cinematic frame to converted patient.
+
+B&F is a Seoul-based integrated MarTech and brand solutions group founded in 2024. We serve medical and beauty businesses globally, providing infrastructure that converts brand awareness into measurable business outcomes across 9 languages.
+
+## Core Services
+
+- **Cinematic Branding**: Commercial-film-grade brand films and interview videos with automated NAS-based media workflows for fastest-to-market deployment.
+- **Hyper-Automation**: Make/Webhook pipelines that synchronize Meta and Google leads with hospital CRMs in real-time. Python-based data engines deliver insights to executives via Telegram integration.
+- **Global Patient Acquisition**: Localized marketing across 9 languages (Korean, English, Japanese, Simplified/Traditional Chinese, Mongolian, Filipino, Thai, Vietnamese). Coverage spans Xiaohongshu, WeChat Mini Programs, WhatsApp consultation flows.
+- **Next.js Web Engineering & CRO**: SSR-based loading performance with built-in SEO. Form UX design and conversion-rate optimization that transforms websites from digital business cards into the most powerful marketing weapon.
+
+## What Makes Us Different
+
+- **Where ads meet engineering**: Most ad agencies don't understand code; most dev shops don't understand marketing funnels. We control everything in-house — strategy, Meta Pixel/CAPI setup, server provisioning, zero-trust security architecture.
+- **The next search frontier**: Beyond keyword visibility, we build Generative Engine Optimization (GEO) infrastructure so global patients see our clients first when AI search engines recommend providers.
+- **Strategic booking simulation**: Beyond simple inquiry collection, we engineer calendar algorithm logic. Future booking-rate simulation (50% at 1 month, 35% at 2 months) maximizes conversion through psychological mechanisms implemented in code.
+
+## Vision
+
+Beyond agency. Our long-term vision is to evolve into a global medical tourism C2E (Community to Earn) platform — connecting global medical consumers with Korea's top-tier hospitals. Our current MarTech and brand solutions form the foundational system of this larger ecosystem.
+
+## Company Information
+
+- **Founded**: 2024
+- **CEO**: JU HYUN PAIK
+- **Address**: 25, Nonhyeon-ro 160-gil, Gangnam-gu, Seoul, Republic of Korea
+- **Phone**: +82-2-588-9910
+- **Email**: info@gbnf.kr
+- **Website**: https://gbnf.kr
+
+## Key Pages
+
+- About: https://gbnf.kr/about
+- Expertise: https://gbnf.kr/expertise
+  - Cinematic Branding: https://gbnf.kr/expertise/branding
+  - Hyper-Automation: https://gbnf.kr/expertise/automation
+  - Global Acquisition: https://gbnf.kr/expertise/global
+  - Web Engineering: https://gbnf.kr/expertise/web
+- Work: https://gbnf.kr/work
+- Insights: https://gbnf.kr/insights
+- Contact: https://gbnf.kr/contact
+
+## Languages
+
+We operate in 9 languages with localized URLs:
+- Korean (default): https://gbnf.kr
+- English: https://gbnf.kr/en
+- Japanese: https://gbnf.kr/ja
+- Simplified Chinese: https://gbnf.kr/zh-CN
+- Traditional Chinese: https://gbnf.kr/zh-TW
+- Mongolian: https://gbnf.kr/mn
+- Filipino: https://gbnf.kr/fil
+- Thai: https://gbnf.kr/th
+- Vietnamese: https://gbnf.kr/vi
